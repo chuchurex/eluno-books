@@ -1,0 +1,28 @@
+{
+  "title": "About This Work",
+  "subtitle": "The Way of Love: Meditations on the Teachings of Jesus",
+  "sections": [
+    {
+      "id": "about-main",
+      "title": "About the Book",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Way of Love is a collection of meditations on the teachings of Jesus, designed to invite reflection on the message of the Gospel."
+        },
+        {
+          "type": "paragraph",
+          "text": "This work was created with the assistance of artificial intelligence, seeking to present eternal truths in an accessible and profound way."
+        },
+        {
+          "type": "paragraph",
+          "text": "All biblical quotations are from the King James Version."
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "updated": "January 2026",
+    "madeWith": "Created with love and AI assistance"
+  }
+}

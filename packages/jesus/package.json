@@ -1,0 +1,24 @@
+{
+  "name": "@eluno/jesus",
+  "version": "1.0.0",
+  "description": "The One - Law of One Reinterpretation",
+  "scripts": {
+    "sass:watch": "sass --watch node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
+    "sass:build": "sass node_modules/@eluno/core/scss/main.scss:dist/css/main.css --style=compressed",
+    "serve": "live-server dist --port=3005",
+    "dev": "concurrently \"npm run sass:watch\" \"npm run serve\"",
+    "build": "npm run sass:build && eluno-build",
+    "deploy": "eluno-deploy",
+    "translate:chapter": "node node_modules/@eluno/core/scripts/translate-chapter.js",
+    "build:pdf": "eluno-pdf",
+    "publish:media": "eluno-publish-media"
+  },
+  "dependencies": {
+    "@eluno/core": "github:chuchurex/eluno-core"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "live-server": "^1.2.2",
+    "sass": "^1.69.0"
+  }
+}

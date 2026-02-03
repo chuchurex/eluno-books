@@ -1,0 +1,57 @@
+{
+  "siteTitle": "Dormidos",
+  "bookTitle": "Dormidos",
+  "description": "WIP",
+  "introduction": {
+    "title": "",
+    "content": [
+      "Contenido próximamente..."
+    ]
+  },
+  "nav": {
+    "index": "Índice",
+    "chapter": "Cap",
+    "notes": "Notas",
+    "about": "Acerca de",
+    "notesPanel": "Notas y Definiciones",
+    "notesEmpty": "Haz clic en cualquier <span class=\"term-hint\">término resaltado</span> para ver su definición aquí.",
+    "tableOfContents": "Tabla de Contenidos",
+    "previousChapter": "Capítulo Anterior",
+    "nextChapter": "Siguiente Capítulo",
+    "backToIndex": "Volver al Índice",
+    "readChapter": "Leer capítulo",
+    "learnMore": "Saber más"
+  },
+  "media": {
+    "downloadPdf": "Descargar PDF",
+    "downloadAudio": "Descargar MP3",
+    "listenAudio": "Escuchar",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "Primera Edición",
+    "date": "2026",
+    "feedbackTitle": "Comparte tus Pensamientos",
+    "formName": "Tu Nombre",
+    "formEmail": "Tu Email",
+    "formMessage": "Tu Mensaje",
+    "formSubmit": "Enviar",
+    "formSuccess": "¡Gracias! Tu mensaje ha sido recibido.",
+    "attribution": "",
+    "originalSessions": "",
+    "derivedFrom": ""
+  },
+  "meta": {
+    "version": "v1.0 · Enero 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "Sobre Esta Obra",
+    "text1": "Esta es una obra en progreso.",
+    "text2": "",
+    "text3": "",
+    "text3b": ""
+  }
+}

@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>eluno.org — Libros</title>
+  <meta name="description" content="Five philosophical books exploring unity, consciousness, and love — each adapted for a different audience while preserving the same core message.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✧</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Spectral:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --bg2: #141414;
+      --bg3: #1E1E1E;
+      --text: #f0f0f0;
+      --text2: #d0d0d0;
+      --muted: #b8b8b8;
+      --gold: #f0ca6b;
+      --gold-dim: #e0b85a;
+      --gold-hover: #f5d88a;
+      --border: rgba(240, 202, 107, 0.25);
+      --border2: rgba(240, 202, 107, 0.45);
+      --shadow: rgba(0, 0, 0, 0.8);
+      --radius: 4px;
+      --focus: #f0ca6b;
+    }
+
+    [data-theme="light"] {
+      --bg: #faf8f3;
+      --bg2: #f5f0e4;
+      --bg3: #ebe4d4;
+      --text: #1a1a1a;
+      --text2: #333333;
+      --muted: #4a4a4a;
+      --gold: #7a6420;
+      --gold-dim: #8a7428;
+      --gold-hover: #5a4a15;
+      --border: rgba(122, 100, 32, 0.3);
+      --border2: rgba(122, 100, 32, 0.5);
+      --shadow: rgba(122, 100, 32, 0.15);
+      --focus: #7a6420;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      font-size: 18px;
+      scroll-behavior: smooth;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html {
+        scroll-behavior: auto;
+      }
+
+      *,
+      *::before,
+      *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+
+    body {
+      font-family: 'Spectral', Georgia, serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      min-height: 100vh;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    /* Skip link for keyboard navigation */
+    .skip-link {
+      position: absolute;
+      top: -100px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--gold);
+      color: var(--bg);
+      padding: 0.75rem 1.5rem;
+      border-radius: var(--radius);
+      font-weight: 500;
+      z-index: 1000;
+      text-decoration: none;
+    }
+
+    .skip-link:focus {
+      top: 1rem;
+      outline: 3px solid var(--focus);
+      outline-offset: 2px;
+    }
+
+    /* Focus styles for accessibility */
+    *:focus-visible {
+      outline: 3px solid var(--focus);
+      outline-offset: 2px;
+    }
+
+    button:focus-visible,
+    a:focus-visible {
+      outline: 3px solid var(--focus);
+      outline-offset: 2px;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background:
+        radial-gradient(ellipse at 20% 20%, rgba(230, 194, 117, 0.03) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 80%, rgba(123, 107, 138, 0.03) 0%, transparent 50%);
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      padding: 3rem 2.5rem;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 400;
+      font-size: 2.8rem;
+      color: var(--gold);
+      margin-bottom: 0.5rem;
+      letter-spacing: 0.02em;
+    }
+
+    .subtitle {
+      font-size: 1.1rem;
+      color: var(--text2);
+      font-style: italic;
+      max-width: 650px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    /* Controls bar */
+    .controls {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    .lang-switcher {
+      display: flex;
+      gap: 0.25rem;
+    }
+
+    .lang-btn {
+      background: transparent;
+      border: 2px solid var(--border);
+      color: var(--text2);
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.95rem;
+      padding: 0.35rem 0.75rem;
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      min-width: 44px;
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .lang-btn:hover {
+      color: var(--gold);
+      border-color: var(--gold);
+    }
+
+    .lang-btn.active {
+      color: var(--gold);
+      border-color: var(--gold);
+      background: rgba(240, 202, 107, 0.12);
+    }
+
+    .theme-btn {
+      background: transparent;
+      border: 2px solid var(--border);
+      color: var(--text2);
+      font-size: 1.1rem;
+      padding: 0.35rem 0.6rem;
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      line-height: 1;
+      min-width: 44px;
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .theme-btn:hover {
+      color: var(--gold);
+      border-color: var(--gold);
+    }
+
+    /* Section titles */
+    h2.section-title,
+    .section-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 500;
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--gold);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Tree layout for books */
+    .book-tree {
+      margin-bottom: 3rem;
+    }
+
+    /* Root level - El Uno */
+    .tree-root {
+      max-width: 600px;
+      margin: 0 auto 2rem;
+    }
+
+    /* Connector line from root */
+    .tree-connector {
+      width: 2px;
+      height: 2.5rem;
+      background: var(--border2);
+      margin: 0 auto;
+    }
+
+    /* Branches container - 2 columns for main branches */
+    .tree-branches {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      position: relative;
+      max-width: 900px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    /* Horizontal connector line above branches */
+    .tree-branches::before {
+      content: '';
+      position: absolute;
+      top: -1.25rem;
+      left: calc(25% + 0.75rem);
+      right: calc(25% + 0.75rem);
+      height: 2px;
+      background: var(--border2);
+    }
+
+    /* Parallel branch section for Doctrinas */
+    .tree-parallel {
+      margin-top: 3rem;
+      padding-top: 3rem;
+      border-top: 1px solid var(--border);
+      position: relative;
+    }
+
+    .tree-parallel-header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .tree-parallel-label {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--gold);
+      display: inline-block;
+      padding: 0.5rem 1.5rem;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg2);
+    }
+
+    .tree-parallel-content {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* Branch wrapper with vertical connector */
+    .tree-branch {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .tree-branch::before {
+      content: '';
+      position: absolute;
+      top: -1.25rem;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 2px;
+      height: 1.25rem;
+      background: var(--border2);
+    }
+
+    /* Sub-branch for Sanación */
+    .tree-subbranch {
+      margin-top: 1.5rem;
+      margin-left: 2rem;
+      position: relative;
+    }
+
+    .tree-subbranch::before {
+      content: '';
+      position: absolute;
+      top: -0.75rem;
+      left: -1rem;
+      width: 1rem;
+      height: calc(50% + 0.75rem);
+      border-left: 2px solid var(--border2);
+      border-bottom: 2px solid var(--border2);
+      border-bottom-left-radius: 8px;
+    }
+
+    .book {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.75rem 1.75rem;
+      transition: all 0.2s ease;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .book:hover {
+      border-color: var(--border2);
+      transform: translateY(-3px);
+      box-shadow: 0 4px 20px var(--shadow);
+    }
+
+    .book.book-root {
+      border-color: var(--gold-dim);
+      background: linear-gradient(135deg, var(--bg2) 0%, rgba(240, 202, 107, 0.05) 100%);
+    }
+
+    /* Branch labels */
+    .branch-label {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--gold);
+      text-align: center;
+      margin-bottom: 0.75rem;
+    }
+
+    /* Responsive: Stack on mobile */
+    @media (max-width: 700px) {
+      .tree-branches {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        max-width: 500px;
+      }
+
+      .tree-branches::before {
+        display: none;
+      }
+
+      .tree-branch::before {
+        display: none;
+      }
+
+      .tree-subbranch {
+        margin-left: 1.5rem;
+      }
+
+      .tree-connector {
+        height: 1.5rem;
+      }
+
+      .tree-parallel {
+        margin-top: 2rem;
+        padding-top: 2rem;
+      }
+    }
+
+    .book-header {
+      margin-bottom: 0.75rem;
+    }
+
+    .book-id {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5rem;
+      font-weight: 400;
+      color: var(--gold);
+      opacity: 0.4;
+      letter-spacing: 0.08em;
+    }
+
+    h3.book-title,
+    .book-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 500;
+      font-size: 1.5rem;
+      color: var(--text);
+      line-height: 1.35;
+      margin: 0;
+      padding-right: 3.5rem;
+    }
+
+    .book-description {
+      font-size: 1rem;
+      color: var(--text2);
+      margin-bottom: 1.25rem;
+      line-height: 1.65;
+      flex-grow: 1;
+    }
+
+    .book-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1.5rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .book-meta-item {
+      font-size: 0.875rem;
+      color: var(--text2);
+    }
+
+    .book-meta-label {
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--gold);
+      margin-right: 0.35rem;
+      font-weight: 500;
+    }
+
+    .book-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: auto;
+    }
+
+    .book-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.5rem 0.9rem;
+      border: 2px solid var(--border);
+      border-radius: var(--radius);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-family: 'Cormorant Garamond', serif;
+      letter-spacing: 0.04em;
+      color: var(--gold);
+      transition: all 0.2s ease;
+      min-height: 44px;
+    }
+
+    .book-link:hover {
+      border-color: var(--gold);
+      background: rgba(240, 202, 107, 0.12);
+      color: var(--gold-hover);
+    }
+
+    .book-link-secondary {
+      color: var(--text2);
+    }
+
+    .book-link-secondary:hover {
+      color: var(--gold);
+      border-color: var(--gold);
+    }
+
+    .book-link-prompt {
+      color: var(--muted);
+      font-size: 0.8rem;
+      padding: 0.4rem 0.7rem;
+      opacity: 0.7;
+    }
+
+    .book-link-prompt:hover {
+      color: var(--gold);
+      border-color: var(--gold);
+      opacity: 1;
+    }
+
+    /* Constants section */
+    .constants-section {
+      margin-bottom: 3rem;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .constants {
+      list-style: none;
+      padding: 0;
+    }
+
+    .constants li {
+      padding: 0.5rem 0;
+      color: var(--text2);
+      font-size: 1rem;
+      padding-left: 1.75rem;
+      position: relative;
+      line-height: 1.6;
+    }
+
+    .constants li::before {
+      content: "\2727";
+      position: absolute;
+      left: 0;
+      color: var(--gold);
+      font-size: 0.75rem;
+      top: 0.65rem;
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+      color: var(--text2);
+      font-size: 0.95rem;
+    }
+
+    footer a {
+      color: var(--gold);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      transition: color 0.2s ease;
+    }
+
+    footer a:hover {
+      color: var(--gold-hover);
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      html {
+        font-size: 16px;
+      }
+
+      .container {
+        padding: 2rem 1rem;
+      }
+
+      h1 {
+        font-size: 2.2rem;
+      }
+
+      .book {
+        padding: 1.25rem 1.25rem;
+      }
+
+      .book:hover {
+        transform: none;
+        box-shadow: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <a href="#main-content" class="skip-link" data-i18n="skip-link">Saltar al contenido</a>
+  <div class="container">
+
+    <header role="banner">
+      <h1 data-i18n="title">Libros</h1>
+      <p class="subtitle" data-i18n="subtitle">Cinco libros filosóficos que exploran la unidad, la consciencia y el amor — cada uno adaptado para una audiencia diferente, preservando el mismo mensaje esencial.</p>
+      <nav class="controls" aria-label="Language and theme">
+        <div class="lang-switcher" role="group" aria-label="Select language">
+          <button class="lang-btn" data-lang="es" aria-label="Español">ES</button>
+          <button class="lang-btn" data-lang="en" aria-label="English">EN</button>
+          <button class="lang-btn" data-lang="pt" aria-label="Português">PT</button>
+        </div>
+        <button class="theme-btn" id="theme-toggle" aria-label="Toggle theme">&#9790;</button>
+      </nav>
+    </header>
+
+    <main id="main-content" role="main">
+
+      <div class="book-tree" role="list" aria-label="Book hierarchy">
+
+        <!-- Root: El Uno -->
+        <div class="tree-root">
+          <article class="book book-root" role="listitem">
+            <div class="book-header">
+              <span class="book-id" aria-hidden="true">000</span>
+              <h2 class="book-title" data-i18n="book0-title">El Uno</h2>
+            </div>
+            <p class="book-description" data-i18n="book0-desc">Una reinterpretación filosófica del Material Ra (La Ley del Uno) como narrativa accesible. Explora la cosmología, el Creador, las densidades y el propósito de la existencia.</p>
+            <div class="book-meta" data-book-meta="book0">
+              <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-chapters">Capítulos</span> 16</span>
+              <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-langs">Idiomas</span> <span class="meta-langs-value">ES · EN · PT</span></span>
+              <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-formats">Formatos</span> <span class="meta-formats-value"></span></span>
+            </div>
+            <div class="book-links" data-book="book0">
+              <!-- Enlaces generados dinámicamente por JavaScript -->
+            </div>
+          </article>
+        </div>
+
+        <div class="tree-connector" aria-hidden="true"></div>
+
+        <!-- Three branches -->
+        <div class="tree-branches">
+
+          <!-- Branch 1: Las Enseñanzas -->
+          <div class="tree-branch">
+            <div class="branch-label" data-i18n="branch-agnostic">Simplificación agnóstica</div>
+            <article class="book" role="listitem">
+              <div class="book-header">
+                <span class="book-id" aria-hidden="true">010</span>
+                <h3 class="book-title" data-i18n="book1-title">Las Enseñanzas de la Ley del Uno</h3>
+              </div>
+              <p class="book-description" data-i18n="book1-desc">Sabiduría ancestral para buscadores modernos, presentada como historia eterna. Una invitación a recordar nuestra verdadera naturaleza.</p>
+              <div class="book-meta" data-book-meta="book1">
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-chapters">Capítulos</span> 11</span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-langs">Idiomas</span> <span class="meta-langs-value">ES · EN · PT</span></span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-formats">Formatos</span> <span class="meta-formats-value"></span></span>
+              </div>
+              <div class="book-links" data-book="book1">
+                <!-- Enlaces generados dinámicamente por JavaScript -->
+              </div>
+            </article>
+          </div>
+
+          <!-- Branch 2: El Camino del Amor + Sanación -->
+          <div class="tree-branch">
+            <div class="branch-label" data-i18n="branch-christian">Lente cristiano</div>
+            <article class="book" role="listitem">
+              <div class="book-header">
+                <span class="book-id" aria-hidden="true">020</span>
+                <h3 class="book-title" data-i18n="book2-title">El Camino del Amor</h3>
+              </div>
+              <p class="book-description" data-i18n="book2-desc">Meditaciones sobre las enseñanzas de Jesús, invitando a descubrir el corazón del mensaje transformador del amor universal.</p>
+              <div class="book-meta" data-book-meta="book2">
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-chapters">Capítulos</span> 11</span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-langs">Idiomas</span> <span class="meta-langs-value">ES · EN · PT</span></span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-formats">Formatos</span> <span class="meta-formats-value"></span></span>
+              </div>
+              <div class="book-links" data-book="book2">
+                <!-- Enlaces generados dinámicamente por JavaScript -->
+              </div>
+            </article>
+
+            <!-- Sub-branch: Sanación -->
+            <div class="tree-subbranch">
+              <article class="book" role="listitem">
+                <div class="book-header">
+                  <span class="book-id" aria-hidden="true">021</span>
+                  <h3 class="book-title" data-i18n="book3-title">Sanación — El Arte de Sanar</h3>
+                </div>
+                <p class="book-description" data-i18n="book3-desc">Una guía completa de la práctica de sanación, enfocada en el arte de sanar la mente, el cuerpo y el espíritu.</p>
+                <div class="book-meta" data-book-meta="book3">
+                  <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-chapters">Capítulos</span> 11</span>
+                  <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-langs">Idiomas</span> <span class="meta-langs-value">ES · EN</span></span>
+                  <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-formats">Formatos</span> <span class="meta-formats-value"></span></span>
+                </div>
+                <div class="book-links" data-book="book3">
+                  <!-- Enlaces generados dinámicamente por JavaScript -->
+                </div>
+              </article>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Parallel Branch: Doctrinas -->
+        <div class="tree-parallel">
+          <div class="tree-parallel-header">
+            <span class="tree-parallel-label" data-i18n="branch-parallel">Rama paralela desde El Uno</span>
+          </div>
+          <div class="tree-parallel-content">
+            <div class="branch-label" data-i18n="branch-theological">Doctrina teológica</div>
+            <article class="book" role="listitem">
+              <div class="book-header">
+                <span class="book-id" aria-hidden="true">100</span>
+                <h3 class="book-title" data-i18n="book4-title">Doctrinas</h3>
+              </div>
+              <p class="book-description" data-i18n="book4-desc">Las enseñanzas universales presentadas dentro del marco de la doctrina católica tradicional, como puente entre la teología y la filosofía perenne.</p>
+              <div class="book-meta" data-book-meta="book4">
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-chapters">Capítulos</span> 15</span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-langs">Idiomas</span> <span class="meta-langs-value">ES</span></span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-formats">Formatos</span> <span class="meta-formats-value"></span></span>
+              </div>
+              <div class="book-links" data-book="book4">
+                <!-- Enlaces generados dinámicamente por JavaScript -->
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <!-- Independent Branch: Dormidos (Cuarto Camino / Gurdjieff) -->
+        <div class="tree-parallel" style="margin-top: 4rem; border-top: 2px solid var(--border);">
+          <div class="tree-parallel-header">
+            <span class="tree-parallel-label" data-i18n="branch-dormidos">Fuera de La Ley del Uno</span>
+          </div>
+          <div class="tree-parallel-content">
+            <div class="branch-label" data-i18n="branch-fourth-way">Cuarto Camino</div>
+            <article class="book" role="listitem">
+              <div class="book-header">
+                <span class="book-id" aria-hidden="true">300</span>
+                <h3 class="book-title" data-i18n="book5-title">Dormidos</h3>
+              </div>
+              <p class="book-description" data-i18n="book5-desc">Una síntesis de las enseñanzas de Gurdjieff sobre el sueño de la consciencia, los centros del ser humano, y el trabajo sobre sí mismo.</p>
+              <div class="book-meta" data-book-meta="book5">
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-chapters">Capítulos</span> 24</span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-langs">Idiomas</span> <span class="meta-langs-value">ES</span></span>
+                <span class="book-meta-item"><span class="book-meta-label" data-i18n="meta-formats">Formatos</span> <span class="meta-formats-value"></span></span>
+              </div>
+              <div class="book-links" data-book="book5">
+                <!-- Enlaces generados dinámicamente por JavaScript -->
+              </div>
+            </article>
+          </div>
+        </div>
+
+      </div>
+
+      <section class="constants-section" aria-labelledby="constants-title">
+        <h2 id="constants-title" class="section-title" data-i18n="section-constants">Lo que permanece constante</h2>
+        <ul class="constants">
+          <li data-i18n="const0">La unidad de la consciencia en la fuente</li>
+          <li data-i18n="const1">La separación aparente como sagrada y necesaria</li>
+          <li data-i18n="const2">El libre albedrío como principio fundamental</li>
+          <li data-i18n="const3">El amor como fuerza creadora</li>
+          <li data-i18n="const4">Todo ser es el Creador experimentándose a sí mismo</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer role="contentinfo">
+      <p><a href="https://eluno.org">eluno.org</a></p>
+    </footer>
+
+  </div>
+
+  <script>
+    var i18n = {
+      es: {
+        'skip-link': 'Saltar al contenido',
+        'title': 'Libros',
+        'subtitle': 'Cinco libros filos\u00f3ficos que exploran la unidad, la consciencia y el amor \u2014 cada uno adaptado para una audiencia diferente, preservando el mismo mensaje esencial.',
+        'section-constants': 'Lo que permanece constante',
+        'branch-agnostic': 'Simplificaci\u00f3n agn\u00f3stica',
+        'branch-christian': 'Lente cristiano',
+        'branch-theological': 'Doctrina teol\u00f3gica',
+        'branch-parallel': 'Rama paralela desde El Uno',
+        'meta-chapters': 'Cap\u00edtulos',
+        'meta-langs': 'Idiomas',
+        'meta-formats': 'Formatos',
+        'book0-title': 'El Uno',
+        'book0-desc': 'Una reinterpretaci\u00f3n filos\u00f3fica del Material Ra (La Ley del Uno) como narrativa accesible. Explora la cosmolog\u00eda, el Creador, las densidades y el prop\u00f3sito de la existencia.',
+        'book1-title': 'Las Ense\u00f1anzas de la Ley del Uno',
+        'book1-desc': 'Sabidur\u00eda ancestral para buscadores modernos, presentada como historia eterna. Una invitaci\u00f3n a recordar nuestra verdadera naturaleza.',
+        'book2-title': 'El Camino del Amor',
+        'book2-desc': 'Meditaciones sobre las ense\u00f1anzas de Jes\u00fas, invitando a descubrir el coraz\u00f3n del mensaje transformador del amor universal.',
+        'book3-title': 'Sanaci\u00f3n \u2014 El Arte de Sanar',
+        'book3-desc': 'Una gu\u00eda completa de la pr\u00e1ctica de sanaci\u00f3n, enfocada en el arte de sanar la mente, el cuerpo y el esp\u00edritu.',
+        'book4-title': 'Doctrinas',
+        'book4-desc': 'Las ense\u00f1anzas universales presentadas dentro del marco de la doctrina cat\u00f3lica tradicional, como puente entre la teolog\u00eda y la filosof\u00eda perenne.',
+        'book5-title': 'Dormidos',
+        'book5-desc': 'Una s\u00edntesis de las ense\u00f1anzas de Gurdjieff sobre el sue\u00f1o de la consciencia, los centros del ser humano, y el trabajo sobre s\u00ed mismo.',
+        'branch-dormidos': 'Fuera de La Ley del Uno',
+        'branch-fourth-way': 'Cuarto Camino',
+        'const0': 'La unidad de la consciencia en la fuente',
+        'const1': 'La separaci\u00f3n aparente como sagrada y necesaria',
+        'const2': 'El libre albedr\u00edo como principio fundamental',
+        'const3': 'El amor como fuerza creadora',
+        'const4': 'Todo ser es el Creador experiment\u00e1ndose a s\u00ed mismo'
+      },
+      en: {
+        'skip-link': 'Skip to content',
+        'title': 'Books',
+        'subtitle': 'Five philosophical books exploring unity, consciousness, and love \u2014 each adapted for a different audience while preserving the same core message.',
+        'section-constants': 'What remains constant',
+        'branch-agnostic': 'Agnostic simplification',
+        'branch-christian': 'Christian lens',
+        'branch-theological': 'Theological doctrine',
+        'branch-parallel': 'Parallel branch from The One',
+        'meta-chapters': 'Chapters',
+        'meta-langs': 'Languages',
+        'meta-formats': 'Formats',
+        'book0-title': 'The One',
+        'book0-desc': 'A philosophical reinterpretation of the Ra Material (The Law of One) as accessible narrative. Explores cosmology, the Creator, densities, and the purpose of existence.',
+        'book1-title': 'The Teachings of the Law of One',
+        'book1-desc': 'Ancient wisdom for modern seekers, presented as an eternal story. An invitation to remember our true nature.',
+        'book2-title': 'The Way of Love',
+        'book2-desc': 'Meditations on the teachings of Jesus, inviting you to discover the heart of the transformative message of universal love.',
+        'book3-title': 'Healing \u2014 The Art of Healing',
+        'book3-desc': 'A complete guide to the practice of healing, focused on the art of healing the mind, body, and spirit.',
+        'book4-title': 'Doctrines',
+        'book4-desc': 'Universal teachings presented within the framework of traditional Catholic doctrine, as a bridge between theology and perennial philosophy.',
+        'book5-title': 'Asleep',
+        'book5-desc': 'A synthesis of Gurdjieff\'s teachings on the sleep of consciousness, the centers of the human being, and the work on oneself.',
+        'branch-dormidos': 'Outside The Law of One',
+        'branch-fourth-way': 'Fourth Way',
+        'const0': 'Unity of consciousness at source',
+        'const1': 'Apparent separation as sacred and necessary',
+        'const2': 'Free will as fundamental principle',
+        'const3': 'Love as the creative force',
+        'const4': 'Every being is the Creator experiencing itself'
+      },
+      pt: {
+        'skip-link': 'Pular para o conte\u00fado',
+        'title': 'Livros',
+        'subtitle': 'Cinco livros filos\u00f3ficos que exploram a unidade, a consci\u00eancia e o amor \u2014 cada um adaptado para um p\u00fablico diferente, preservando a mesma mensagem essencial.',
+        'section-constants': 'O que permanece constante',
+        'branch-agnostic': 'Simplifica\u00e7\u00e3o agn\u00f3stica',
+        'branch-christian': 'Lente crist\u00e3',
+        'branch-theological': 'Doutrina teol\u00f3gica',
+        'branch-parallel': 'Ramo paralelo de O Um',
+        'meta-chapters': 'Cap\u00edtulos',
+        'meta-langs': 'Idiomas',
+        'meta-formats': 'Formatos',
+        'book0-title': 'O Um',
+        'book0-desc': 'Uma reinterpreta\u00e7\u00e3o filos\u00f3fica do Material Ra (A Lei do Um) como narrativa acess\u00edvel. Explora a cosmologia, o Criador, as densidades e o prop\u00f3sito da exist\u00eancia.',
+        'book1-title': 'Os Ensinamentos da Lei do Um',
+        'book1-desc': 'Sabedoria ancestral para buscadores modernos, apresentada como hist\u00f3ria eterna. Um convite para lembrar nossa verdadeira natureza.',
+        'book2-title': 'O Caminho do Amor',
+        'book2-desc': 'Medita\u00e7\u00f5es sobre os ensinamentos de Jesus, convidando a descobrir o cora\u00e7\u00e3o da mensagem transformadora do amor universal.',
+        'book3-title': 'Cura \u2014 A Arte de Curar',
+        'book3-desc': 'Um guia completo da pr\u00e1tica de cura, focado na arte de curar a mente, o corpo e o esp\u00edrito.',
+        'book4-title': 'Doutrinas',
+        'book4-desc': 'Ensinamentos universais apresentados dentro da estrutura da doutrina cat\u00f3lica tradicional, como ponte entre a teologia e a filosofia perene.',
+        'book5-title': 'Adormecidos',
+        'book5-desc': 'Uma s\u00edntese dos ensinamentos de Gurdjieff sobre o sono da consci\u00eancia, os centros do ser humano e o trabalho sobre si mesmo.',
+        'branch-dormidos': 'Fora da Lei do Um',
+        'branch-fourth-way': 'Quarta Via',
+        'const0': 'A unidade da consci\u00eancia na fonte',
+        'const1': 'A separa\u00e7\u00e3o aparente como sagrada e necess\u00e1ria',
+        'const2': 'O livre arb\u00edtrio como princ\u00edpio fundamental',
+        'const3': 'O amor como for\u00e7a criadora',
+        'const4': 'Todo ser \u00e9 o Criador experimentando a si mesmo'
+      }
+    };
+
+    // Configuración de cada libro con sus formatos disponibles por idioma
+    var booksConfig = {
+      'book0': {
+        id: 'book0',
+        web: { es: 'https://eluno.org/es', en: 'https://eluno.org', pt: 'https://eluno.org/pt' },
+        pdf: { es: 'https://static.eluno.org/eluno/pdf/es/el-uno-libro-completo.pdf' },
+        mp3: { es: 'https://static.eluno.org/eluno/audiobook/audio/es/el-uno-audiolibro-completo.mp3' }
+      },
+      'book1': {
+        id: 'book1',
+        web: { es: 'https://todo.eluno.org', en: 'https://todo.eluno.org/en/', pt: 'https://todo.eluno.org/pt/' },
+        pdf: { es: 'https://todo.eluno.org/pdf/es/el-uno-libro-completo.pdf' },
+        mp3: { es: 'https://static.eluno.org/todo/audiobook/audio/es/ensenanzas-audiolibro-completo.mp3' }
+      },
+      'book2': {
+        id: 'book2',
+        web: { es: 'https://jesus.eluno.org', en: 'https://jesus.eluno.org/en/', pt: 'https://jesus.eluno.org/pt/' },
+        pdf: {},
+        mp3: { es: 'https://static.eluno.org/jesus/audiobook/audio/es/camino-del-amor-audiolibro-completo.mp3' }
+      },
+      'book3': {
+        id: 'book3',
+        web: { es: 'https://sanacion.eluno.org', en: 'https://sanacion.eluno.org/en/' },
+        pdf: {},
+        mp3: {}
+      },
+      'book4': {
+        id: 'book4',
+        web: { es: 'https://doctrinas.eluno.org' },
+        pdf: {},
+        mp3: {}
+      },
+      'book5': {
+        id: 'book5',
+        web: { es: 'https://dormidos.eluno.org' },
+        pdf: {},
+        mp3: {}
+      }
+    };
+
+    // Nombres de dominio para mostrar en el botón principal
+    var bookDomains = {
+      'book0': 'eluno.org',
+      'book1': 'todo.eluno.org',
+      'book2': 'jesus.eluno.org',
+      'book3': 'sanacion.eluno.org',
+      'book4': 'doctrinas.eluno.org',
+      'book5': 'dormidos.eluno.org'
+    };
+
+    // Enlaces a los prompts de cada libro en GitHub
+    var bookPrompts = {
+      'book0': 'https://github.com/chuchurex/eluno.org/blob/main/packages/eluno/PROMPT.md'
+    };
+
+    function detectLang() {
+      var stored = localStorage.getItem('libros-lang');
+      if (stored && i18n[stored]) return stored;
+      var nav = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+      if (nav.indexOf('es') === 0) return 'es';
+      if (nav.indexOf('pt') === 0) return 'pt';
+      return 'en';
+    }
+
+    function setLang(lang) {
+      localStorage.setItem('libros-lang', lang);
+      document.documentElement.lang = lang;
+      document.querySelectorAll('[data-i18n]').forEach(function (el) {
+        var key = el.getAttribute('data-i18n');
+        if (i18n[lang] && i18n[lang][key]) {
+          el.textContent = i18n[lang][key];
+        }
+      });
+      document.querySelectorAll('.lang-btn').forEach(function (btn) {
+        btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
+      });
+      // Regenerar los enlaces de cada libro según el idioma
+      updateBookLinks(lang);
+    }
+
+    function updateBookLinks(lang) {
+      document.querySelectorAll('.book-links[data-book]').forEach(function (container) {
+        var bookId = container.getAttribute('data-book');
+        var config = booksConfig[bookId];
+        if (!config) return;
+
+        container.innerHTML = '';
+
+        // Enlace principal (web) - siempre mostrar si existe para este idioma
+        var webUrl = config.web[lang] || config.web.es || config.web.en;
+        if (webUrl) {
+          var webLink = document.createElement('a');
+          webLink.href = webUrl;
+          webLink.className = 'book-link';
+          webLink.target = '_blank';
+          webLink.textContent = bookDomains[bookId];
+          container.appendChild(webLink);
+        }
+
+        // Enlace PDF - solo si existe para este idioma
+        if (config.pdf && config.pdf[lang]) {
+          var pdfLink = document.createElement('a');
+          pdfLink.href = config.pdf[lang];
+          pdfLink.className = 'book-link book-link-secondary';
+          pdfLink.target = '_blank';
+          pdfLink.textContent = 'PDF';
+          container.appendChild(pdfLink);
+        }
+
+        // Enlace MP3 - solo si existe para este idioma
+        if (config.mp3 && config.mp3[lang]) {
+          var mp3Link = document.createElement('a');
+          mp3Link.href = config.mp3[lang];
+          mp3Link.className = 'book-link book-link-secondary';
+          mp3Link.target = '_blank';
+          mp3Link.textContent = 'MP3';
+          container.appendChild(mp3Link);
+        }
+
+        // Enlace al Prompt en GitHub - solo si existe
+        if (bookPrompts[bookId]) {
+          var promptLink = document.createElement('a');
+          promptLink.href = bookPrompts[bookId];
+          promptLink.className = 'book-link book-link-prompt';
+          promptLink.target = '_blank';
+          promptLink.title = 'Ver prompt en GitHub';
+          promptLink.textContent = 'Prompt';
+          container.appendChild(promptLink);
+        }
+      });
+
+      // Actualizar los metadatos de formatos para cada libro
+      document.querySelectorAll('[data-book-meta]').forEach(function (metaContainer) {
+        var bookId = metaContainer.getAttribute('data-book-meta');
+        var config = booksConfig[bookId];
+        if (!config) return;
+
+        var formatsEl = metaContainer.querySelector('.meta-formats-value');
+        if (formatsEl) {
+          var formats = [];
+          // Web siempre disponible si existe para el idioma actual
+          if (config.web[lang]) {
+            formats.push('Web');
+          }
+          // PDF solo si existe para este idioma
+          if (config.pdf && config.pdf[lang]) {
+            formats.push('PDF');
+          }
+          // MP3 solo si existe para este idioma
+          if (config.mp3 && config.mp3[lang]) {
+            formats.push('MP3');
+          }
+          formatsEl.textContent = formats.length > 0 ? formats.join(' · ') : 'Web';
+        }
+
+        // Actualizar idiomas disponibles (mostrar en qué idiomas está la web)
+        var langsEl = metaContainer.querySelector('.meta-langs-value');
+        if (langsEl) {
+          var webLangs = Object.keys(config.web).map(function (l) { return l.toUpperCase(); });
+          langsEl.textContent = webLangs.join(' · ');
+        }
+      });
+    }
+
+    function detectTheme() {
+      var stored = localStorage.getItem('libros-theme');
+      if (stored) return stored;
+      return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+    }
+
+    function setTheme(theme) {
+      localStorage.setItem('libros-theme', theme);
+      if (theme === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+      } else {
+        document.documentElement.removeAttribute('data-theme');
+      }
+      document.getElementById('theme-toggle').innerHTML = theme === 'light' ? '&#9790;' : '&#9788;';
+    }
+
+    (function () {
+      setTheme(detectTheme());
+      setLang(detectLang());
+
+      document.getElementById('theme-toggle').addEventListener('click', function () {
+        var current = document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
+        setTheme(current === 'light' ? 'dark' : 'light');
+      });
+
+      document.querySelectorAll('.lang-btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          setLang(this.getAttribute('data-lang'));
+        });
+      });
+
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function (e) {
+        if (!localStorage.getItem('libros-theme')) {
+          setTheme(e.matches ? 'light' : 'dark');
+        }
+      });
+    })();
+  </script>
+</body>
+
+</html>

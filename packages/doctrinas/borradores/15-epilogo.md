@@ -1,0 +1,27 @@
+# Epílogo
+
+Al llegar aquí, quizás sientas que algunas piezas que antes no encajaban ahora tienen sentido. Esas preguntas que surgían en silencio, esas tensiones entre versículos que parecían contradecirse, esas dudas que no te atrevías a expresar en voz alta. Este libro intentó iluminar esos rincones.
+
+Pero hay algo importante que decir antes de cerrar estas páginas.
+
+Este libro no es una invitación a abandonar tu comunidad de fe. No es un llamado a la rebeldía ni al aislamiento. La iglesia, con todas sus imperfecciones, tiene un valor que ningún libro puede reemplazar.
+
+Y hay una tentación sutil que debemos reconocer: la de abrazar estas páginas como una nueva doctrina. Cambiar un sistema de creencias por otro. Sustituir unas certezas por otras. Si hacemos eso, habremos caído en la misma trampa que intentamos evitar.
+
+Todo lo que dice este libro puedes olvidarlo.
+
+Las palabras son señales en el camino, no el camino mismo. Los conceptos son mapas, no el territorio. Las doctrinas—todas las doctrinas, incluyendo las que aquí se presentan—son dedos que apuntan hacia algo que está más allá de las palabras.
+
+Lo que importa no es lo que ahora crees. Lo que importa es lo que se ha encendido.
+
+Si algo de lo que leíste despertó en ti un amor más profundo, una fe más viva, una sed de conocer a Dios más allá de las fórmulas—entonces el libro cumplió su propósito. No porque te haya dado respuestas correctas, sino porque avivó la llama que ya estaba en ti.
+
+Esa llama es tu propia luz. No la luz de este libro, ni la de ninguna tradición, ni la de ningún maestro humano. Es la luz que el Espíritu enciende en cada corazón que busca.
+
+Y esa luz te puede guiar.
+
+No necesitas cargar con estas páginas. No necesitas defender estas ideas. No necesitas convencer a nadie de nada. Solo necesitas seguir esa luz interior, con humildad y con amor, un paso a la vez.
+
+El camino sigue. Y Aquel que lo inició en ti, lo completará.
+
+Que la gracia te acompañe.

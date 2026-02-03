@@ -1,0 +1,39 @@
+{
+  "id": "about",
+  "title": "Acerca de Este Proyecto",
+  "subtitle": "",
+  "sections": [
+    {
+      "id": "what",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Una exploración de las doctrinas fundamentales de la fe cristiana, escritas desde la tensión entre lo que la tradición enseña y lo que el misterio sugiere. Este proyecto busca iluminar las grandes preguntas teológicas desde múltiples perspectivas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este trabajo fue realizado por <a href=\"https://chuchurex.cl\" target=\"_blank\">Carlos Martínez</a> con la ayuda de Claude."
+        }
+      ]
+    },
+    {
+      "id": "ai-disclosure",
+      "title": "Divulgación de Asistencia de IA",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Este proyecto fue creado con asistencia de una IA (Claude de Anthropic). Aunque se ha hecho todo el esfuerzo por mantener la precisión teológica, el contenido generado por IA puede contener inexactitudes o inconsistencias."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este trabajo debe usarse solo como herramienta de reflexión complementaria, no como referencia doctrinal autoritativa."
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "updated": "",
+    "madeWith": ""
+  }
+}

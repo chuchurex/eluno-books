@@ -1,0 +1,57 @@
+{
+  "siteTitle": "Asleep",
+  "bookTitle": "Asleep",
+  "description": "WIP",
+  "introduction": {
+    "title": "",
+    "content": [
+      "Content coming soon..."
+    ]
+  },
+  "nav": {
+    "index": "Index",
+    "chapter": "Ch",
+    "notes": "Notes",
+    "about": "About",
+    "notesPanel": "Notes & Definitions",
+    "notesEmpty": "Click on any <span class=\"term-hint\">highlighted term</span> to see its definition here.",
+    "tableOfContents": "Table of Contents",
+    "previousChapter": "Previous Chapter",
+    "nextChapter": "Next Chapter",
+    "backToIndex": "Back to Index",
+    "readChapter": "Read chapter",
+    "learnMore": "Learn more"
+  },
+  "media": {
+    "downloadPdf": "Download PDF",
+    "downloadAudio": "Download MP3",
+    "listenAudio": "Listen",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "First Edition",
+    "date": "2026",
+    "feedbackTitle": "Share Your Thoughts",
+    "formName": "Your Name",
+    "formEmail": "Your Email",
+    "formMessage": "Your Message",
+    "formSubmit": "Send",
+    "formSuccess": "Thank you! Your message has been received.",
+    "attribution": "",
+    "originalSessions": "",
+    "derivedFrom": ""
+  },
+  "meta": {
+    "version": "v1.0 · January 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "About This Work",
+    "text1": "This is a work in progress.",
+    "text2": "",
+    "text3": "",
+    "text3b": ""
+  }
+}

@@ -1,0 +1,4 @@
+# Redirect /es/ to root (Spanish is the base language)
+RewriteEngine On
+RewriteRule ^es/?$ / [R=301,L]
+RewriteRule ^es/(.*)$ /$1 [R=301,L]

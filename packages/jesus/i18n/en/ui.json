@@ -1,0 +1,57 @@
+{
+  "siteTitle": "The Way of Love",
+  "bookTitle": "The Way of Love",
+  "description": "Meditations on the Teachings of Jesus — An invitation to discover the heart of the Gospel.",
+  "introduction": {
+    "title": "",
+    "content": [
+      "There is a story that has transformed millions of lives throughout the centuries. It is the story of a love that knows no limits, of a grace that reaches everyone, of a way that leads to true life. Perhaps you already know it. Perhaps, in reading these words, you are remembering something you always carried within."
+    ]
+  },
+  "nav": {
+    "index": "Index",
+    "chapter": "Ch",
+    "notes": "Notes",
+    "about": "About",
+    "notesPanel": "Notes & References",
+    "notesEmpty": "Click any <span class=\"term-hint\">highlighted passage</span> in the text to see its biblical reference here.",
+    "tableOfContents": "Table of Contents",
+    "previousChapter": "Previous Chapter",
+    "nextChapter": "Next Chapter",
+    "backToIndex": "Back to Index",
+    "readChapter": "Read chapter",
+    "learnMore": "Learn more"
+  },
+  "media": {
+    "downloadPdf": "Download PDF",
+    "downloadAudio": "Download MP3",
+    "listenAudio": "Listen",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "First Edition",
+    "date": "2026",
+    "feedbackTitle": "Share Your Thoughts",
+    "formName": "Your Name",
+    "formEmail": "Your Email",
+    "formMessage": "Your Message",
+    "formSubmit": "Send",
+    "formSuccess": "Thank you! Your message has been received.",
+    "attribution": "Meditations based on the Holy Scriptures.",
+    "originalSessions": "Online Bible at",
+    "derivedFrom": "All biblical quotations from the King James Version"
+  },
+  "meta": {
+    "version": "v1.0 · January 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "About This Work",
+    "text1": "This is an invitation to know the heart of the Gospel. The meditations presented here seek to illuminate the teachings of Jesus in an accessible and profound way.",
+    "text2": "Created with AI assistance, this work aims to open hearts to the transformative message of God's love.",
+    "text3": "For those who wish to delve deeper into the Scriptures, we recommend visiting",
+    "text3b": "— this is merely an invitation to begin the journey."
+  }
+}

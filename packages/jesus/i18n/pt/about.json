@@ -1,0 +1,28 @@
+{
+  "title": "Sobre Esta Obra",
+  "subtitle": "O Caminho do Amor: Meditacoes sobre os ensinamentos de Jesus",
+  "sections": [
+    {
+      "id": "about-main",
+      "title": "Sobre o Livro",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "O Caminho do Amor e uma colecao de meditacoes sobre os ensinamentos de Jesus, projetada para convidar a reflexao sobre a mensagem do Evangelho."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esta obra foi criada com assistencia de inteligencia artificial, buscando apresentar as verdades eternas de maneira acessivel e profunda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Todas as citacoes biblicas sao da versao Almeida Revista e Atualizada."
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "updated": "Janeiro 2026",
+    "madeWith": "Criado com amor e assistencia de IA"
+  }
+}

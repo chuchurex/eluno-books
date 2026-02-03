@@ -1,0 +1,101 @@
+{
+  "proyecto": "DOCTRINAS",
+  "descripcion": "Reinterpretacion del Material Ra (Law of One) presentada como libro de no-ficcion filosofica para audiencias cristianas.",
+  "instrucciones_para_claude": "Lee el archivo adjunto CAPITULOS_COMPLETOS.md que contiene los capitulos 1-9 y el epilogo. Capta el tono y estilo antes de trabajar en capitulos pendientes. Este JSON contiene el prompt de contexto y la estructura del libro.",
+  "voz": {
+    "persona": "Primera persona plural (nosotros), como si Ra escribiera directamente",
+    "tono": "Educativo, reverente al misterio, no dogmatico",
+    "registro": "Accesible pero profundo. Sin jerga esoterica excesiva. Integrar citas biblicas naturalmente en el texto."
+  },
+  "terminologia_controlada": {
+    "usar": {
+      "densidad": "en vez de 'dimension'",
+      "distorsion": "modificacion creativa del Uno infinito",
+      "catalizador": "experiencias de aprendizaje/sufrimiento con proposito",
+      "cosecha": "graduacion de densidad",
+      "velo_del_olvido": "la condicion humana de no recordar",
+      "complejo_mente_cuerpo_espiritu": "el ser humano completo",
+      "polarizacion": "orientacion del corazon (servicio a otros vs servicio a si mismo)",
+      "Logos": "el Verbo/Cristo cosmico",
+      "Creador": "Dios/el Uno infinito"
+    },
+    "evitar": {
+      "dimension": "usar densidad",
+      "karma_como_castigo": "karma es inercia, no venganza",
+      "infierno_eterno": "repeticion de ciclo, no tortura eterna",
+      "predestinacion_calvinista": "pre-encarnacion elegida libremente"
+    }
+  },
+  "formato": {
+    "separador_secciones": "--- (entre secciones tematicas)",
+    "cierre_capitulo": "Es suficiente.",
+    "sin_notas_al_pie": true,
+    "sin_referencias_explicitas_a_ra": true,
+    "citas_biblicas": "integradas en el flujo del texto, no como footnotes",
+    "longitud_capitulo": "2000-3500 palabras aprox",
+    "estructura_tipica": "Apertura biblica -> Pregunta profunda -> Exploracion -> Integracion con perspectiva amplia -> Cierre"
+  },
+  "estructura_libro": {
+    "completados": [
+      {"num": 1, "titulo": "La Caida", "tema": "El olvido como condicion necesaria. El jardin. La separacion. El proposito del velo."},
+      {"num": 2, "titulo": "La Naturaleza del Hombre", "tema": "Imagen de Dios y dualismo interior. La guerra entre las dos leyes. La dignidad de la eleccion."},
+      {"num": 3, "titulo": "La Gracia", "tema": "Favor inmerecido. El hijo prodigo. La gracia como disponibilidad permanente del amor."},
+      {"num": 4, "titulo": "La Cruz", "tema": "Kenosis, vaciamiento. El sufrimiento como catalizador. Tomar la cruz cada dia."},
+      {"num": 5, "titulo": "La Redencion", "tema": "Transformacion total (nueva criatura). Auto-perdon. Karma detenido por perdon."},
+      {"num": 6, "titulo": "La Fe", "tema": "Fe como vision diferente. El velo. Fe y voluntad circulares. Todo esta bien."},
+      {"num": 7, "titulo": "Las Obras", "tema": "Fe y obras complementarias. Arbol y frutos. Servicio vs complacencia. Ser antes que hacer."},
+      {"num": 8, "titulo": "La Eleccion", "tema": "Libre albedrio vs predestinacion. Dos caminos. El peligro de la tibieza. Co-creadores."},
+      {"num": 9, "titulo": "El Espiritu Santo", "tema": "El Consolador. Yo superior. Guias. Meditacion como canal. Discernimiento."},
+      {"num": 99, "titulo": "Epilogo", "tema": "Las palabras como senales. Seguir la luz interior. No nueva doctrina."}
+    ],
+    "pendientes": [
+      {
+        "num": 10,
+        "titulo": "La Trinidad",
+        "estado": "completado en otro contexto",
+        "tema": "Padre/Hijo/Espiritu como Creador/Logos/Espiritu. No tres dioses sino tres aspectos del Uno.",
+        "notas": "Integrar concepto de Logos como principio creativo. El Espiritu como potenciador."
+      },
+      {
+        "num": 11,
+        "titulo": "El Infierno",
+        "estado": "pendiente - siguiente a escribir",
+        "tema": "Repeticion de ciclo, no castigo eterno. La 'segunda muerte' como repetir tercera densidad.",
+        "notas": "Reconciliar con Gehenna, fuego eterno, lago de fuego. El fuego como purificacion. No hay condenacion eterna sino oportunidad renovada. La entidad no cosechada repite el grado.",
+        "textos_clave": [
+          "Apocalipsis 20:14 - segunda muerte",
+          "Mateo 25:46 - castigo eterno vs vida eterna",
+          "2 Pedro 3:9 - no quiere que ninguno perezca",
+          "1 Timoteo 2:4 - quiere que todos sean salvos",
+          "Marcos 9:48 - gusano que no muere, fuego que no se apaga"
+        ]
+      },
+      {
+        "num": 12,
+        "titulo": "El Cielo",
+        "estado": "pendiente",
+        "tema": "Densidades superiores. Graduacion. Cuarta densidad como amor, quinta como sabiduria.",
+        "notas": "Las muchas moradas. Cuerpos glorificados. Nuevo cielo y nueva tierra. Pasos de luz como mecanismo de cosecha."
+      },
+      {
+        "num": 13,
+        "titulo": "La Segunda Venida",
+        "estado": "pendiente",
+        "tema": "La cosecha. Cambio de densidad planetaria. Graduacion colectiva.",
+        "notas": "Reconciliar con textos apocalipticos. Separacion ovejas/cabras como cosecha. El 'rapto' como cambio vibratorio. No punitivo."
+      },
+      {
+        "num": 14,
+        "titulo": "La Iglesia",
+        "estado": "pendiente",
+        "tema": "Complejo de memoria social. Caminar juntos. El cuerpo de Cristo como organismo.",
+        "notas": "Iglesia no como institucion sino grupo de almas polarizadas. Comunion de santos a traves de densidades."
+      }
+    ]
+  },
+  "fuentes_primarias": [
+    "Material Ra (The Law of One) - Don Elkins, Carla Rueckert, Jim McCarty",
+    "Transcripciones Q'uo (L/L Research)",
+    "Biblia (multiples traducciones, preferencia Reina-Valera para citas)"
+  ]
+}

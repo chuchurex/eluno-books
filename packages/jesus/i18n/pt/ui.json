@@ -1,0 +1,57 @@
+{
+  "siteTitle": "O Caminho do Amor",
+  "bookTitle": "O Caminho do Amor",
+  "description": "Meditacoes sobre os ensinamentos de Jesus — Um convite para descobrir o coracao do Evangelho.",
+  "introduction": {
+    "title": "",
+    "content": [
+      "Ha uma historia que transformou milhoes de vidas ao longo dos seculos. E a historia de um amor que nao conhece limites, de uma graca que alcanca a todos, de um caminho que conduz a vida verdadeira. Talvez voce ja a conheca. Talvez, ao ler estas palavras, esteja lembrando de algo que sempre carregou dentro de si."
+    ]
+  },
+  "nav": {
+    "index": "Indice",
+    "chapter": "Cap",
+    "notes": "Notas",
+    "about": "Sobre",
+    "notesPanel": "Notas e Referencias",
+    "notesEmpty": "Clique em qualquer <span class=\"term-hint\">passagem destacada</span> para ver sua referencia biblica aqui.",
+    "tableOfContents": "Indice",
+    "previousChapter": "Capitulo Anterior",
+    "nextChapter": "Proximo Capitulo",
+    "backToIndex": "Voltar ao Indice",
+    "readChapter": "Ler capitulo",
+    "learnMore": "Saiba mais"
+  },
+  "media": {
+    "downloadPdf": "Baixar PDF",
+    "downloadAudio": "Baixar MP3",
+    "listenAudio": "Ouvir",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "Primeira Edicao",
+    "date": "2026",
+    "feedbackTitle": "Compartilhe seus Pensamentos",
+    "formName": "Seu Nome",
+    "formEmail": "Seu Email",
+    "formMessage": "Sua Mensagem",
+    "formSubmit": "Enviar",
+    "formSuccess": "Obrigado! Sua mensagem foi recebida.",
+    "attribution": "Meditacoes baseadas nas Sagradas Escrituras.",
+    "originalSessions": "Biblia online em",
+    "derivedFrom": "Todas as citacoes biblicas sao da versao Almeida Revista e Atualizada"
+  },
+  "meta": {
+    "version": "v1.0 · Janeiro 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "Sobre Esta Obra",
+    "text1": "Este e um convite para conhecer o coracao do Evangelho. As meditacoes aqui apresentadas buscam iluminar os ensinamentos de Jesus de maneira acessivel e profunda.",
+    "text2": "Criada com assistencia de IA, esta obra busca abrir coracoes a mensagem transformadora do amor de Deus.",
+    "text3": "Para aqueles que desejam aprofundar-se nas Escrituras, recomendamos visitar",
+    "text3b": "— isto e simplesmente um convite para comecar a jornada."
+  }
+}

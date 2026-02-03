@@ -1,0 +1,66 @@
+{
+  "all": {
+    "audio": "/audiobook/audio/es/doctrinas-audiolibro-completo.mp3",
+    "pdf": ""
+  },
+  "1": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/01-la-caida.mp3"
+  },
+  "2": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/02-la-naturaleza-del-hombre.mp3"
+  },
+  "3": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/03-la-gracia.mp3"
+  },
+  "4": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/04-la-cruz.mp3"
+  },
+  "5": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/05-la-redencion.mp3"
+  },
+  "6": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/06-la-fe.mp3"
+  },
+  "7": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/07-las-obras.mp3"
+  },
+  "8": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/08-la-eleccion.mp3"
+  },
+  "9": {
+    "pdf": "",
+    "audio": ""
+  },
+  "10": {
+    "pdf": "",
+    "audio": ""
+  },
+  "11": {
+    "pdf": "",
+    "audio": ""
+  },
+  "12": {
+    "pdf": "",
+    "audio": ""
+  },
+  "13": {
+    "pdf": "",
+    "audio": ""
+  },
+  "14": {
+    "pdf": "",
+    "audio": ""
+  },
+  "15": {
+    "pdf": "",
+    "audio": "/audiobook/audio/es/99-epilogo.mp3"
+  }
+}

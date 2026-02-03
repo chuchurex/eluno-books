@@ -1,0 +1,62 @@
+{
+  "1": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-01-en-el-principio-era-el-verbo.mp3",
+    "pdf": "/pdf/es/ch01.pdf",
+    "youtube": ""
+  },
+  "2": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-02-el-camino-que-jesus-enseno.mp3",
+    "pdf": "/pdf/es/ch02.pdf",
+    "youtube": ""
+  },
+  "3": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-03-la-vida-como-escuela-del-alma.mp3",
+    "pdf": "/pdf/es/ch03.pdf",
+    "youtube": ""
+  },
+  "4": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-04-la-eleccion-del-corazon.mp3",
+    "pdf": "/pdf/es/ch04.pdf",
+    "youtube": ""
+  },
+  "5": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-05-el-espiritu-que-mora-en-nosotros.mp3",
+    "pdf": "/pdf/es/ch05.pdf",
+    "youtube": ""
+  },
+  "6": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-06-la-nueva-criatura.mp3",
+    "pdf": "/pdf/es/ch06.pdf",
+    "youtube": ""
+  },
+  "7": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-07-el-projimo-como-espejo.mp3",
+    "pdf": "/pdf/es/ch07.pdf",
+    "youtube": ""
+  },
+  "8": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-08-la-esperanza-que-no-defrauda.mp3",
+    "pdf": "/pdf/es/ch08.pdf",
+    "youtube": ""
+  },
+  "9": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-09-la-oracion-y-la-quietud.mp3",
+    "pdf": "/pdf/es/ch09.pdf",
+    "youtube": ""
+  },
+  "10": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-10-fe-y-obras.mp3",
+    "pdf": "/pdf/es/ch10.pdf",
+    "youtube": ""
+  },
+  "11": {
+    "audio": "/audiobook/audio/es/camino-del-amor-cap-11-el-misterio-y-la-humildad.mp3",
+    "pdf": "/pdf/es/ch11.pdf",
+    "youtube": ""
+  },
+  "all": {
+    "audio": "/audiobook/audio/es/camino-del-amor-audiolibro-completo.mp3",
+    "pdf": "/pdf/es/complete-book.pdf",
+    "youtube": ""
+  }
+}

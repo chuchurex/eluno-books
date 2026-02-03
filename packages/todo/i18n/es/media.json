@@ -1,0 +1,62 @@
+{
+  "1": {
+    "pdf": "/pdf/es/ensenanzas-cap-01-el-uno-infinito.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-01-el-uno-infinito.mp3",
+    "youtube": ""
+  },
+  "2": {
+    "pdf": "/pdf/es/ensenanzas-cap-02-el-gran-viaje.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-02-el-gran-viaje.mp3",
+    "youtube": ""
+  },
+  "3": {
+    "pdf": "/pdf/es/ensenanzas-cap-03-el-olvido.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-03-el-olvido.mp3",
+    "youtube": ""
+  },
+  "4": {
+    "pdf": "/pdf/es/ensenanzas-cap-04-la-historia-de-este-mundo.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-04-la-historia-de-este-mundo.mp3",
+    "youtube": ""
+  },
+  "5": {
+    "pdf": "/pdf/es/ensenanzas-cap-05-la-eleccion.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-05-la-eleccion.mp3",
+    "youtube": ""
+  },
+  "6": {
+    "pdf": "/pdf/es/ensenanzas-cap-06-la-cosecha.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-06-la-cosecha.mp3",
+    "youtube": ""
+  },
+  "7": {
+    "pdf": "/pdf/es/ensenanzas-cap-07-el-regalo-de-la-experiencia.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-07-el-regalo-de-la-experiencia.mp3",
+    "youtube": ""
+  },
+  "8": {
+    "pdf": "/pdf/es/ensenanzas-cap-08-lo-que-viene-despues.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-08-lo-que-viene-despues.mp3",
+    "youtube": ""
+  },
+  "9": {
+    "pdf": "/pdf/es/ensenanzas-cap-09-la-ayuda-que-te-rodea.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-09-la-ayuda-que-te-rodea.mp3",
+    "youtube": ""
+  },
+  "10": {
+    "pdf": "/pdf/es/ensenanzas-cap-10-vivir-las-ensenanzas.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-10-vivir-las-ensenanzas.mp3",
+    "youtube": ""
+  },
+  "11": {
+    "pdf": "/pdf/es/ensenanzas-cap-11-el-misterio-permanece.pdf",
+    "audio": "/audiobook/audio/es/ensenanzas-cap-11-el-misterio-permanece.mp3",
+    "youtube": ""
+  },
+  "all": {
+    "audio": "/audiobook/audio/es/ensenanzas-audiolibro-completo.mp3",
+    "pdf": "/pdf/es/ensenanzas-libro-completo.pdf",
+    "youtube": ""
+  }
+}

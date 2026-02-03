@@ -1,0 +1,101 @@
+# 4. La Consciencia Enterrada
+
+## El tesoro bajo la casa
+
+En el capítulo anterior vimos que Fe, Amor y Esperanza degeneraron completamente. Pero hay algo que no degeneró: la Consciencia Objetiva.
+
+Ashiata Shiemash descubrió que "el factor que debería engendrar ese impulso del ser sobre el cual se basa toda la psique de los seres de tres cerebros—seres como nosotros, con centros intelectual, emocional y motor—y que existe bajo el nombre de Consciencia Objetiva, aún no está atrofiado en ellos, sino que permanece en sus presencias casi en su estado primordial."
+
+Casi en su estado primordial. Intacta. Sin corromper.
+
+¿Cómo es posible que algo tan fundamental haya sobrevivido cuando todo lo demás degeneró?
+
+La respuesta es que sobrevivió *porque fue excluida*. La consciencia "ha penetrado gradualmente y se ha incrustado en esa consciencia que aquí se llama 'subconsciencia,' en consecuencia de lo cual no toma parte alguna en el funcionamiento de su consciencia ordinaria."
+
+Lo que salvó a la consciencia fue su exilio. Al no participar en la vida ordinaria, no fue expuesta a la degeneración que corrompió todo lo demás.
+
+Es como un tesoro enterrado bajo la casa donde uno vive. El tesoro existe, está completo, es valioso. Pero el habitante de la casa no tiene acceso a él. Vive su vida entera sobre una fortuna que no puede usar.
+
+## Por qué fue enterrada
+
+Gurdjieff explica el mecanismo en detalle. Los humanos tienen dos consciencias que funcionan casi independientemente:
+
+Una consciencia se forma de "toda clase de impresiones accidentales o mecánicas intencionalmente producidas por otros"—es la consciencia ordinaria, la que llamamos "estar despierto," compuesta de información vacía, palabras sin contenido, asociaciones aleatorias.
+
+La otra consciencia se forma de "resultados materiales ya previamente formados" transmitidos por herencia, mezclados con datos surgidos de "la confrontación asociativa intencional de estos datos ya materializados." Esta es la consciencia real, lo que llamamos subconsciente.
+
+Gurdjieff afirma que lo que la gente llama "consciencia despierta pura" es en realidad la ficticia, y lo que llaman subconsciente es la real.
+
+La consciencia genuina fue "empujada hacia adentro" desde la más temprana infancia. ¿Cómo?
+
+A través de la educación.
+
+"Desde el día de su nacimiento, los seres de tres cerebros allí son acostumbrados por sus productores—o, como dicen, 'padres'—a un impulso completamente contrario, llamado 'engaño.' Enseñar y sugerir a sus hijos cómo ser insinceros con otros y engañosos en todo, se ha arraigado tanto en los seres del planeta Tierra del tiempo presente, que incluso se ha convertido en su concepción de su deber hacia sus hijos; y esta clase de conducta hacia sus hijos la llaman con la famosa palabra 'educación.'"
+
+Los niños son "educados" para nunca hacer lo que la consciencia presente en ellos instintivamente dirige, sino solo lo que está prescrito en el manual de lo socialmente aceptable—generalmente elaborado por lo que Gurdjieff llama "Hasnamuss," término que designa a individuos que han desarrollado poder o conocimiento sin consciencia moral, y que por tanto hacen daño en proporción a su influencia.
+
+El resultado: "La consciencia que podría estar en la consciencia de los seres de ese planeta es, desde su más temprana infancia, gradualmente 'empujada hacia adentro,' de modo que cuando crecen, dicha consciencia ya se encuentra solo en lo que ellos llaman su subconsciencia."
+
+## Lo que significa tener consciencia
+
+Ouspensky ofrece la definición más precisa de lo que es la consciencia:
+
+"Consciencia es un estado en el cual un hombre siente todo a la vez todo lo que en general siente, o puede sentir."
+
+Y como todos tenemos dentro miles de sentimientos contradictorios—desde una realización profundamente oculta de nuestra propia nulidad y miedos de todo tipo, hasta el más estúpido tipo de vanidad, autoconfianza, autosatisfacción y auto-alabanza—sentir todo esto junto "no solo sería doloroso sino literalmente insoportable."
+
+Imagina sentir simultáneamente que amas todo lo que odias y odias todo lo que amas. Que mientes cuando dices la verdad y dices la verdad cuando mientes. Sentir la vergüenza y el horror de todo esto.
+
+"Un hombre no puede vivir en este estado; debe o destruir las contradicciones o destruir la consciencia. No puede destruir la consciencia, pero si no puede destruirla puede ponerla a dormir."
+
+Y eso es exactamente lo que hacen los buffers—esos amortiguadores internos heredados del Kundabuffer: separan un sentimiento del otro con barreras impenetrables, para nunca verlos juntos, nunca sentir su incompatibilidad, lo absurdo de que uno exista junto al otro.
+
+## Consciencia versus moralidad
+
+Hay una distinción crucial que debe hacerse: consciencia no es moralidad.
+
+"El concepto 'consciencia' no tiene nada en común con el concepto 'moralidad.' La consciencia es un fenómeno general y permanente. La consciencia es la misma para todos los hombres y la consciencia es posible solo en ausencia de 'buffers.'"
+
+La moralidad, en cambio, *consiste* de buffers. No hay moralidad general. Lo que es moral en China es inmoral en Europa. Lo que es moral en una clase social es inmoral en otra. La moralidad es siempre y en todas partes un fenómeno artificial.
+
+La consciencia es universal. Si dos personas con consciencia despierta observan la misma situación, verán lo mismo. Si dos personas con diferentes moralidades observan la misma situación, pueden ver cosas completamente opuestas—y ambas sentirse "moralmente correctas."
+
+## El remordimiento de consciencia
+
+Hay momentos en que la consciencia enterrada asoma a la superficie. Gurdjieff los llama "remordimiento de consciencia."
+
+"En aquellos de ellos que por casualidad reciben y experimentan algún tipo de 'shock de vergüenza orgánica,' las asociaciones que proceden de sus impresiones previas casi siempre cambian, se calman, y a veces incluso cesan temporalmente por completo."
+
+En esos momentos, "se obtiene automáticamente tal combinación de funcionamiento en sus presencias comunes que temporalmente libera los datos presentes en su subconsciencia para la manifestación del impulso Divino consciencia y para su participación en el funcionamiento de su consciencia ordinaria."
+
+Pero los humanos contemporáneos se han vuelto "idealmente expertos" en no permitir que este remordimiento de consciencia permanezca mucho tiempo. "Apenas comienzan a sentir el principio, o incluso solo el 'pinchazo' del surgimiento del funcionamiento de tal impulso del ser, inmediatamente lo 'aplastan,' con lo cual este impulso, aún no completamente formado en ellos, se calma de inmediato."
+
+¿Cómo lo aplastan? Han inventado medios muy eficientes. Gurdjieff los lista irónicamente como "-ismos": alcoholismo, consumo de drogas, adicciones sexuales, y también formas socialmente aceptables de evasión—incluyendo cierto tipo de religiosidad mecánica y filosofías que justifican la pasividad.
+
+Cualquier cosa que anestesie el pinchazo de la consciencia antes de que pueda convertirse en algo que requiera acción.
+
+## El fuego que puede unir
+
+Ouspensky ofrece la imagen más poderosa de lo que la consciencia puede hacer:
+
+"La consciencia es el fuego que solo puede fundir todos los polvos en la retorta de vidrio y crear la unidad que le falta al hombre en el estado en que comienza a estudiarse."
+
+La imagen es esta: el hombre es como un recipiente de vidrio lleno de diferentes polvos metálicos. Los polvos están mezclados pero no unidos. Cualquier sacudida los reorganiza en una nueva configuración. No hay estabilidad, no hay unidad—es la multiplicidad de "yoes" que vimos antes.
+
+Solo el fuego de la consciencia puede *fundir* los polvos en una aleación. Solo entonces hay algo permanente, algo que no cambia con cada sacudida externa.
+
+Pero para encender ese fuego hay que estar dispuesto a sentir todo simultáneamente. Hay que destruir los buffers que mantienen separadas las contradicciones. Y destruir los buffers significa "ir al encuentro de todos esos sufrimientos internos que están conectados con las sensaciones de contradicciones."
+
+## La posibilidad
+
+El despertar de la consciencia en un hombre con miles de "yoes" diferentes inevitablemente implica sufrimiento. Pero si estos momentos de consciencia se prolongan, "si un hombre no les teme sino que por el contrario coopera con ellos y trata de mantenerlos y prolongarlos, un elemento de gozo muy sutil, un anticipo de la futura 'consciencia clara,' entrará gradualmente en estos momentos."
+
+Salzmann—quien trabajó directamente con Gurdjieff y guió a generaciones posteriores de practicantes—lo confirma desde la práctica: "Es necesario sentir remordimiento de consciencia. El esfuerzo voluntario es preparar condiciones y permanecer frente a mi inadecuación—sufrir mi insuficiencia. De esta manera se desarrolla una voluntad que de otro modo no se produciría, y surge un sentimiento que no es una reacción."
+
+El camino no es evitar el sufrimiento sino atravesarlo. No aplastar el pinchazo de la consciencia sino permitirle crecer hasta que se convierta en visión clara.
+
+La consciencia existe. Está intacta. Solo hay que desenterrarla.
+
+---
+
+*"La consciencia que podría estar en la consciencia de los seres de ese planeta es, desde su más temprana infancia, gradualmente 'empujada hacia adentro,' de modo que cuando crecen, dicha consciencia ya se encuentra solo en lo que ellos llaman su subconsciencia. En consecuencia, el funcionamiento de los datos mencionados para engendrar en sus presencias este dicho impulso Divino consciencia, gradualmente cesó hace tiempo de participar en esa consciencia de ellos por medio de la cual fluye su existencia despierta."*

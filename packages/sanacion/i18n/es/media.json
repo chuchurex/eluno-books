@@ -1,0 +1,62 @@
+{
+  "all": {
+    "audio": "",
+    "pdf": "/pdf/es/complete-book.pdf",
+    "youtube": ""
+  },
+  "1": {
+    "pdf": "/pdf/es/ch01.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "2": {
+    "pdf": "/pdf/es/ch02.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "3": {
+    "pdf": "/pdf/es/ch03.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "4": {
+    "pdf": "/pdf/es/ch04.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "5": {
+    "pdf": "/pdf/es/ch05.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "6": {
+    "pdf": "/pdf/es/ch06.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "7": {
+    "pdf": "/pdf/es/ch07.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "8": {
+    "pdf": "/pdf/es/ch08.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "9": {
+    "pdf": "/pdf/es/ch09.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "10": {
+    "pdf": "/pdf/es/ch10.pdf",
+    "audio": "",
+    "youtube": ""
+  },
+  "11": {
+    "pdf": "/pdf/es/ch11.pdf",
+    "audio": "",
+    "youtube": ""
+  }
+}

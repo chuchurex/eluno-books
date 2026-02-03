@@ -1,0 +1,39 @@
+{
+  "id": "about",
+  "title": "Sobre Este Projeto",
+  "subtitle": "",
+  "sections": [
+    {
+      "id": "what",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Uma introdução gentil aos Os Ensinamentos de A Lei do Um, apresentada como história eterna. O material original, recebido por Don Elkins, Carla L. Rueckert e Jim McCarty entre 1981 e 1984, está disponível gratuitamente em <a href=\"https://www.llresearch.org\" target=\"_blank\">llresearch.org</a>."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este trabalho foi realizado por <a href=\"https://chuchurex.cl\" target=\"_blank\">Carlos Martínez</a> com a ajuda de Claude."
+        }
+      ]
+    },
+    {
+      "id": "ai-disclosure",
+      "title": "Divulgação de Assistência de IA",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Este projeto foi criado com assistência de uma IA (Claude da Anthropic). Embora todo o esforço tenha sido feito para manter a precisão e fidelidade ao material original, o conteúdo gerado por IA pode conter inexatidões, inconsistências ou interpretações equivocadas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Este trabalho deve ser usado apenas como ferramenta de estudo complementar. Para uma compreensão autorizada, sempre consulte o Material Ra original."
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "updated": "",
+    "madeWith": ""
+  }
+}

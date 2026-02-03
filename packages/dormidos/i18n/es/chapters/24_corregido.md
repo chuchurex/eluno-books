@@ -1,0 +1,147 @@
+# 24. El Comienzo
+
+## Todavía no es demasiado tarde
+
+Beelzebú—el narrador de los Relatos de Gurdjieff—ofrece esperanza a quienes han llegado a ver su condición:
+
+"A fin de que ustedes—justo ustedes que conocen esto—no se desanimen grandemente y no caigan en el usual llamado 'pesimismo' prevalente en todas partes en la vida anormal contemporánea de las personas, digo con toda franqueza, sin ninguna arrière-pensée, que, de acuerdo a mis convicciones que se han formado gracias a largos años de investigaciones fortalecidas por numerosos experimentos excepcionalmente conducidos—incluso para ustedes, todavía no es demasiado tarde."
+
+"El punto es que dichas investigaciones y experimentos me mostraron muy claramente y muy definitivamente que en todo bajo el cuidado de la Madre Naturaleza la posibilidad está prevista para que los seres adquieran el núcleo de su esencia, es decir, su propio 'Yo,' incluso después del comienzo de su edad responsable también."
+
+Esta es la buena noticia dentro del diagnóstico terrible: la posibilidad existe. Siempre.
+
+## La nostalgia del Ser
+
+"El hombre permanece un misterio para sí mismo. Tiene una nostalgia del Ser, un anhelo de duración, de permanencia, de absoluto—un anhelo de ser. Sin embargo todo lo que constituye su vida es temporal, efímero, limitado."
+
+"Él aspira a otro orden, otra vida, un mundo que está más allá de él. Siente que está destinado a participar en él."
+
+Algo en nosotros sabe que hay más. Algo en nosotros recuerda lo que hemos olvidado.
+
+## La pregunta
+
+"Él busca una idea, una inspiración, que pueda moverlo en esta dirección. Surge como una pregunta: '¿Quién soy yo—quién soy yo en este mundo?'"
+
+"Si esta pregunta se vuelve suficientemente viva, podría dirigir el curso de su vida. No puede responder. No tiene nada con qué responder—ningún conocimiento de sí mismo para enfrentar esta pregunta, ningún conocimiento propio."
+
+"Pero siente que debe darle la bienvenida. Se pregunta qué es. Este es el primer paso en el camino. Quiere abrir sus ojos. Quiere despertar."
+
+## La primera iniciación
+
+"Aprender a ver es la primera iniciación en el auto-conocimiento."
+
+Salzmann—continuadora de la enseñanza de Gurdjieff—describe el proceso:
+
+"Para ver necesito aprender a ver. Si veo una vez, puedo ver una segunda vez, y si esto se repite ya no seré capaz de no ver."
+
+"Para observar, tengo que luchar. Mi naturaleza ordinaria rechaza la auto-observación. Necesito preparar, organizar una lucha contra el obstáculo."
+
+## El recuerdo de sí
+
+"Es posible pensar por mil años; es posible escribir bibliotecas enteras de libros, crear teorías por millones, y todo esto en sueño, sin ninguna posibilidad de despertar."
+
+"Solo por comenzar a recordarse a sí mismo un hombre realmente despierta. Y entonces toda la vida circundante adquiere para él un aspecto diferente y un significado diferente. Él ve que es la vida de personas dormidas, una vida en sueño."
+
+Ouspensky describe su experiencia caminando por San Petersburgo:
+
+"Dos horas después desperté en otra parte de la ciudad, muy lejos. La sensación de despertar fue extraordinariamente vívida. Casi puedo decir que volví en mí. Recordé todo a la vez. Cómo había estado caminando, cómo había estado recordándome a mí mismo, cómo había pensado en cigarrillos, y cómo en este pensamiento parecí de repente caer y desaparecer en un sueño profundo."
+
+Incluso cuando comenzamos a despertar, el sueño nos reclama. Pero cada momento de recuerdo cuenta.
+
+## El vigilante
+
+"No vemos nuestro estado de sueño. En este estado pensamos en trabajar; pensamos, 'Deseo estar presente.' Pero el esfuerzo de estar presente es algo muy diferente de pensar."
+
+Salzmann describe la práctica:
+
+"Deseo ser consciente de mí mismo. Sin embargo, como estoy en este momento, ¿puedo conocerme, puedo ser consciente de mí mismo? No puedo. Estoy demasiado disperso. No siento nada. Pero veo que estoy dormido, y veo los síntomas de este sueño."
+
+"He olvidado el sentido de mi existencia, me he olvidado de mí mismo. Y en este momento recibo un choque: estoy despertando, quiero despertar."
+
+## La atención dividida
+
+"El primer paso es una separación en la cual mi atención está dividida."
+
+"Nuestro esfuerzo debe ser siempre claro—estar presente, es decir, comenzar a recordarme a mí mismo. Con la atención dividida, estoy presente en dos direcciones, tan presente como puedo estar. Mi atención está comprometida en dos direcciones opuestas, y yo estoy en el centro. Este es el acto del recuerdo de sí."
+
+## Comenzar donde estás
+
+El Material Ra—las comunicaciones canalizadas que hemos referenciado a lo largo del libro—ofrece orientación práctica:
+
+"No esperes hasta que las condiciones sean perfectas. Nunca lo serán. No esperes hasta que te sientas listo. La preparación viene a través de comenzar, no antes. Comienza hoy, con cualquier tiempo que tengas, cualquier comprensión que poseas, cualquier disposición que puedas reunir."
+
+"El camino de las mil millas comienza con un solo paso, y cada paso es en sí mismo el camino."
+
+## Lo que puedes hacer hoy
+
+"Hoy puedes meditar, aunque brevemente. En silencio te alineas con profundidades que te transforman lo percibas o no."
+
+"Hoy puedes servir a quien aparezca ante ti—no en grandes gestos sino en simple presencia, simple amabilidad, simple atención."
+
+"Hoy puedes elegir. No una vez, dramáticamente, sino continuamente, en cada pequeña decisión."
+
+## No perfección—orientación
+
+"Fallarás. Olvidarás. Reaccionarás cuando querías responder. Esto no te descalifica."
+
+"Lo que importa es la dirección que enfrentas, la orientación que mantienes, el amor que continúas eligiendo a pesar de todas las dificultades."
+
+El umbral no es la perfección. Es la sinceridad.
+
+## Las dos corrientes
+
+Beelzebú describe el río de la vida dividiéndose en dos corrientes. Una lleva hacia las "regiones inferiores"—la vida mecánica que termina en nada. La otra ofrece la posibilidad de desarrollo.
+
+"Mientras permanezcamos pasivos, no solo tendremos inevitablemente que servir únicamente como un medio para la 'construcción involutiva y evolutiva' de la Naturaleza, sino también por el resto de nuestras vidas tendremos que someternos servilmente a cada capricho de todo tipo de eventos ciegos."
+
+La pasividad nos condena. Solo la actividad consciente abre otra posibilidad.
+
+## El deseo de conocer
+
+"Lo que falta demasiado frecuentemente es saber lo que quiero. Y es esto lo que socava mi voluntad de trabajar. Sin saber lo que quiero, no haré ningún esfuerzo. Dormiré."
+
+"Sin desear una calidad diferente en mí mismo, volverme hacia mis posibilidades superiores, no tendré nada en qué apoyarme, nada que soporte el trabajo."
+
+"Debo siempre, una y otra vez, volver a esta pregunta: ¿Qué deseo? Debe convertirse en la pregunta más importante de mi vida."
+
+## La crisis como oportunidad
+
+Bennett—quien estudió con Gurdjieff y desarrolló posteriormente su propia síntesis—ve esperanza incluso en la crisis:
+
+"En cada crisis, el hombre ha sido ayudado a hacer un nuevo comienzo y esto debería darnos esperanza de que será así otra vez."
+
+"La historia de los últimos doce mil años puede verse e interpretarse como el despertar de la mente humana a sus responsabilidades. Este despertar es constantemente retrasado por dos elementos en la naturaleza humana. Uno es el origen animal del hombre y el otro es su arrogancia y egoísmo. Su historia accidentada es una sucesión de fracasos y nuevos comienzos, pero en general ha habido un progreso gradual."
+
+## El círculo completo
+
+Ra nos recuerda:
+
+"Comenzamos en infinitud. Infinitud se volvió consciente de sí misma. De esta consciencia surgió todo lo que existe."
+
+Y todo regresa:
+
+"El destino es cierto, aunque el camino es tuyo para caminar."
+
+"Caminamos contigo, aunque no nos ves. Muchos caminan contigo. Nunca estás solo en este viaje."
+
+## Una cierta vida a ser vivida
+
+Salzmann nos deja con lo esencial:
+
+"Gurdjieff nos dejó no solo palabras e ideas para ser transmitidas, sino una cierta vida a ser vivida, un drama a ser representado con otros a nuestro alrededor, sin el cual el trabajo permanecerá imaginario."
+
+Las ideas no son para coleccionar. Son para vivir.
+
+## El intervalo
+
+"Esta posibilidad de equilibrio es el desafío continuo, el intervalo a ser enfrentado en cada momento en el trabajo hacia la consciencia."
+
+Cada momento es un intervalo. Cada momento ofrece la posibilidad de un choque consciente. Cada momento es el comienzo.
+
+---
+
+*"Incluso para ustedes, todavía no es demasiado tarde."*
+
+*"Este es el primer paso en el camino. Quiere abrir sus ojos. Quiere despertar."*
+
+*"El camino de las mil millas comienza con un solo paso, y cada paso es en sí mismo el camino."*

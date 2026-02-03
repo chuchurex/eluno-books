@@ -1,0 +1,28 @@
+{
+  "title": "Acerca de Esta Obra",
+  "subtitle": "El Camino del Amor: Meditaciones sobre las enseñanzas de Jesús",
+  "sections": [
+    {
+      "id": "about-main",
+      "title": "Sobre el Libro",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El Camino del Amor es una colección de meditaciones sobre las enseñanzas de Jesús, diseñada para invitar a reflexionar sobre el mensaje del Evangelio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esta obra fue creada con asistencia de inteligencia artificial, buscando presentar las verdades eternas de manera accesible y profunda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Todas las citas bíblicas provienen de la versión Reina-Valera 1960."
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "updated": "Enero 2026",
+    "madeWith": "Creado con amor y asistencia de IA"
+  }
+}

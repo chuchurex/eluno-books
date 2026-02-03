@@ -1,0 +1,82 @@
+# 2. Las Consecuencias Heredadas
+
+## La lista
+
+Gurdjieff enumera las consecuencias del órgano Kundabuffer que cristalizaron en nosotros: vanidad, amor propio, orgullo, sugestibilidad, egoísmo, envidia, odio, hipocresía, desprecio, altanería, servilismo, astucia, ambición, doblez.
+
+No es una lista de pecados ni de defectos de carácter. Es un inventario de **mecanismos heredados** que operan automáticamente en nosotros, tan automáticamente que los confundimos con nuestra identidad.
+
+## Segunda naturaleza
+
+Ashiata Shiemash—un maestro enviado a la Tierra que Gurdjieff presenta como el más exitoso de todos los mensajeros cósmicos—al observar a los habitantes de la antigua Babilonia, llegó a una conclusión devastadora: las consecuencias del Kundabuffer, después de pasar por herencia a través de innumerables generaciones, "se habían cristalizado de tal manera en sus presencias, que ahora llegaban a los seres contemporáneos como una parte legítima de su esencia."
+
+Esto significa: ya no son accidentales. Son estructurales. No son algo que *tenemos*—son algo que *somos*. Gurdjieff las llama "segunda naturaleza."
+
+Ouspensky traduce esto con la metáfora del carruaje: un hombre típico es un carruaje desvencijado (el cuerpo), tirado por un caballo exhausto (las emociones), conducido por un cochero medio dormido y medio borracho (la mente) que espera en una esquina a cualquier pasajero que quiera subirse. Cada parte—carruaje, caballo, cochero—representa uno de los tres centros y tiene su propia voluntad. El cochero cree que él manda, pero no es el dueño: es solo un empleado que olvidó quién es su jefe. El pasajero—el verdadero "Yo" que debería dirigir todo—está ausente. Lo que queda es un vehículo sin Amo, a merced de quien pase.
+
+Las consecuencias heredadas son las partes deterioradas del carruaje: ruedas torcidas, ejes oxidados, riendas podridas. No fueron diseñadas así. Se deterioraron por uso sin mantenimiento, por generaciones de funcionamiento sin consciencia.
+
+## Los buffers
+
+Entre las consecuencias más significativas están lo que Ouspensky llama "buffers"—amortiguadores internos que impiden sentir las contradicciones. Recordemos: la palabra "buffer" está contenida en Kunda*buffer*; estos amortiguadores psicológicos son la herencia directa del órgano cósmico.
+
+Un hombre contiene multitudes de "yoes" contradictorios. Uno ama lo que otro odia. Uno promete lo que otro sabotea. Uno aspira a lo que otro teme. Si sintiera todas estas contradicciones simultáneamente, sentiría que está loco. No podría funcionar.
+
+Los buffers resuelven esto separando los yoes contradictorios para que nunca se encuentren. El yo que hace promesas generosas a las tres de la mañana nunca confronta al yo mezquino del mediodía. El yo espiritual del domingo no se cruza con el yo brutal del lunes. Cada uno actúa como si fuera el único, y los buffers impiden que la persona sienta el fraude.
+
+Los buffers se crean de dos maneras: artificialmente, a través de la educación; e involuntariamente, por imitación del entorno. Nacemos entre dormidos, somos criados por dormidos, imitamos a dormidos. Los buffers se transmiten como se transmite un idioma.
+
+Sin buffers, un hombre no podría vivir como vive. Pero los buffers también impiden despertar, porque despertar requiere shocks, y los buffers existen precisamente para amortiguar los shocks.
+
+## La identificación
+
+Otra consecuencia central es la identificación—la pérdida de sí mismo en lo que sea que capte la atención.
+
+Un hombre se identifica con un pensamiento y olvida todos los demás. Se identifica con un sentimiento y pierde perspectiva. Se identifica con una opinión y se vuelve esa opinión. En casos extremos, Ouspensky describe fumadores de opio que se identifican tanto con su pipa que creen *ser* la pipa.
+
+Pero no hace falta opio. La identificación es el estado ordinario. Nos identificamos con el trabajo, con las preocupaciones, con las opiniones políticas, con los equipos deportivos, con las ofensas recibidas. Cada identificación es una pequeña muerte del yo—o más precisamente, una pequeña confirmación de que nunca hubo un yo presente.
+
+La identificación con uno mismo es la más difícil de ver. Llamarse "yo" constantemente, actuar como si hubiera alguien consistente detrás de todas las acciones, defender una imagen de sí mismo—todo esto es identificación. Y lo llamamos "sinceridad."
+
+## La consideración interna
+
+Una forma específica de identificación es lo que Ouspensky llama "consideración interna"—la preocupación obsesiva por lo que otros piensan de nosotros.
+
+El hombre que considera internamente vive pendiente de si lo valoran suficiente, si lo respetan, si lo tratan con la importancia que merece. Cualquier mirada, cualquier tono de voz, cualquier omisión se convierte en evidencia a analizar. Gasta cantidades enormes de energía en suposiciones sobre las opiniones ajenas.
+
+La consideración interna se disfraza de sensibilidad o de justicia. El hombre dice que le importa la injusticia cuando en realidad le importa no ser suficientemente apreciado. Puede considerar hasta el clima como una ofensa personal.
+
+Todo esto está basado en "requerimientos"—expectativas de que el mundo debería reconocer constantemente lo especial que uno es. Y los requerimientos están basados en una noción completamente fantástica de uno mismo.
+
+## La mentira
+
+Salzmann—la discípula que continuó la enseñanza de Gurdjieff—lo dice directamente: "Siempre nos mentimos a nosotros mismos, a cada momento, todo el día, toda nuestra vida."
+
+La mentira fundamental es creer que existimos cuando no existimos, que somos conscientes cuando dormimos, que elegimos cuando solo reaccionamos. De esta mentira primaria brotan todas las demás: la imagen inflada de nosotros mismos, la justificación de nuestras acciones, la culpa proyectada en otros.
+
+Ouspensky señala que lo que llamamos "sinceridad" es frecuentemente solo incapacidad de contenernos. El hombre que "sinceramente" expresa su irritación no está siendo honesto—está siendo débil. No puede evitar identificarse con su emoción negativa. Y después se miente diciéndose que fue sincero.
+
+## Las emociones negativas
+
+Las emociones negativas—irritación, autocompasión, resentimiento, ansiedad, celos—son combustible desperdiciado. Ouspensky las considera entre las consecuencias más costosas porque consumen enormes cantidades de energía que podría usarse para despertar.
+
+No son naturales. A diferencia del miedo genuino ante un peligro real, las emociones negativas son producidas internamente, alimentadas por la imaginación, sostenidas por la identificación. Un hombre puede estar furioso por algo que imaginó que alguien pensó sobre él. Toda la maquinaria emocional funcionando a máxima potencia por una ficción.
+
+Salzmann añade que las emociones negativas son "una negación en un nivel muy bajo." Si nuestras reacciones están en un nivel bajo, lo que recibimos está en un nivel bajo. Las emociones negativas nos mantienen en un circuito cerrado donde nada superior puede entrar.
+
+## Lo que sobrevive
+
+Hay una noticia en medio de este diagnóstico sombrío: la consciencia objetiva no fue destruida.
+
+Gurdjieff, a través de Ashiata Shiemash, afirma que aunque los tres impulsos sagrados—Fe, Amor y Esperanza, que en su enseñanza son fuerzas cósmicas, no meras virtudes—degeneraron completamente, existe un factor más profundo: la Consciencia Objetiva. Esta consciencia es cualitativamente distinta de la consciencia ordinaria; es la capacidad de ver la realidad tal como es, sin las distorsiones del Kundabuffer. Y "permanece en sus presencias casi en su estado primordial."
+
+El problema es dónde quedó. Fue empujada al subconsciente, donde no participa en la vida ordinaria. Existe intacta pero inaccesible—como un tesoro enterrado bajo la casa donde uno vive sin saber que está ahí.
+
+El camino, entonces, no es crear algo nuevo sino desenterrar algo que ya existe. La consciencia no hay que fabricarla—hay que despertarla.
+
+Pero mientras las consecuencias heredadas dominen la superficie, la consciencia enterrada no puede emerger. Las consecuencias son el peso que la mantiene abajo.
+
+---
+
+*"Si un hombre sintiera todas las contradicciones que hay dentro de él, no podría vivir ni actuar tan calmadamente como vive y actúa ahora. Tendría fricción constante, inquietud constante. No vemos cuán contradictorios y hostiles son los diferentes 'yoes' de nuestra personalidad entre sí. Si un hombre sintiera todas estas contradicciones, sentiría lo que realmente es. Sentiría que está loco."*
+— Ouspensky, registrando las palabras de Gurdjieff

@@ -1,0 +1,57 @@
+{
+  "siteTitle": "El Camino del Amor",
+  "bookTitle": "El Camino del Amor",
+  "description": "Meditaciones sobre las enseñanzas de Jesús — Una invitación a descubrir el corazón del Evangelio.",
+  "introduction": {
+    "title": "",
+    "content": [
+      "Hay una historia que ha transformado millones de vidas a lo largo de los siglos. Es la historia de un amor que no conoce límites, de una gracia que alcanza a todos, de un camino que conduce a la vida verdadera. Quizás ya la conoces. Quizás, al leer estas palabras, estás recordando algo que siempre llevaste dentro."
+    ]
+  },
+  "nav": {
+    "index": "Índice",
+    "chapter": "Cap",
+    "notes": "Notas",
+    "about": "Acerca de",
+    "notesPanel": "Notas y Referencias",
+    "notesEmpty": "Haz clic en cualquier <span class=\"term-hint\">pasaje resaltado</span> para ver su referencia bíblica aquí.",
+    "tableOfContents": "Tabla de Contenidos",
+    "previousChapter": "Capítulo Anterior",
+    "nextChapter": "Siguiente Capítulo",
+    "backToIndex": "Volver al Índice",
+    "readChapter": "Leer capítulo",
+    "learnMore": "Saber más"
+  },
+  "media": {
+    "downloadPdf": "Descargar PDF",
+    "downloadAudio": "Descargar MP3",
+    "listenAudio": "Escuchar",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "Primera Edición",
+    "date": "2026",
+    "feedbackTitle": "Comparte tus Pensamientos",
+    "formName": "Tu Nombre",
+    "formEmail": "Tu Email",
+    "formMessage": "Tu Mensaje",
+    "formSubmit": "Enviar",
+    "formSuccess": "¡Gracias! Tu mensaje ha sido recibido.",
+    "attribution": "Meditaciones basadas en las Sagradas Escrituras.",
+    "originalSessions": "Biblia en línea en",
+    "derivedFrom": "Todas las citas bíblicas provienen de la Reina-Valera 1960"
+  },
+  "meta": {
+    "version": "v1.0 · Enero 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "Sobre Esta Obra",
+    "text1": "Esta es una invitación a conocer el corazón del Evangelio. Las meditaciones aquí presentadas buscan iluminar las enseñanzas de Jesús de manera accesible y profunda.",
+    "text2": "Creada con asistencia de IA, esta obra busca abrir corazones al mensaje transformador del amor de Dios.",
+    "text3": "Para quienes deseen profundizar en las Escrituras, recomendamos visitar",
+    "text3b": "— esto es simplemente una invitación a comenzar el viaje."
+  }
+}

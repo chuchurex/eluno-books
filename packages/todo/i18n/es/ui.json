@@ -1,0 +1,57 @@
+{
+  "siteTitle": "Las Enseñanzas",
+  "bookTitle": "Las Enseñanzas de la Ley del Uno",
+  "description": "Una Invitación a Recordar — Sabiduría ancestral para buscadores modernos, presentada como historia eterna.",
+  "introduction": {
+    "title": "",
+    "content": [
+      "Hay una historia más antigua que la memoria. Ha sido contada de diferentes maneras en todas las culturas. Quizás ya la conoces. Quizás, al leer estas palabras, no estás aprendiendo algo nuevo sino recordando algo que siempre llevaste dentro."
+    ]
+  },
+  "nav": {
+    "index": "Índice",
+    "chapter": "Cap",
+    "notes": "Notas",
+    "about": "Acerca de",
+    "notesPanel": "Notas y Definiciones",
+    "notesEmpty": "Haz clic en cualquier <span class=\"term-hint\">término resaltado</span> para ver su definición aquí.",
+    "tableOfContents": "Tabla de Contenidos",
+    "previousChapter": "Capítulo Anterior",
+    "nextChapter": "Siguiente Capítulo",
+    "backToIndex": "Volver al Índice",
+    "readChapter": "Leer capítulo",
+    "learnMore": "Saber más"
+  },
+  "media": {
+    "downloadPdf": "Descargar PDF",
+    "downloadAudio": "Descargar MP3",
+    "listenAudio": "Escuchar",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "Primera Edición",
+    "date": "2026",
+    "feedbackTitle": "Comparte tus Pensamientos",
+    "formName": "Tu Nombre",
+    "formEmail": "Tu Email",
+    "formMessage": "Tu Mensaje",
+    "formSubmit": "Enviar",
+    "formSuccess": "¡Gracias! Tu mensaje ha sido recibido.",
+    "attribution": "Esta obra es una interpretación del Material Ra, publicado originalmente por L/L Research.",
+    "originalSessions": "Sesiones originales en",
+    "derivedFrom": "Contenido derivado del material de L/L Research"
+  },
+  "meta": {
+    "version": "v1.0 · Enero 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "Sobre Esta Obra",
+    "text1": "Esta es una invitación a recordar. La historia aquí contada proviene de enseñanzas ancestrales, presentadas como leyenda y sabiduría en lugar de doctrina.",
+    "text2": "Creada con asistencia de IA, esta introducción gentil busca abrir corazones en lugar de convencer mentes.",
+    "text3": "Para quienes deseen explorar más profundamente, el material original está disponible gratuitamente en",
+    "text3b": "— esto es simplemente una invitación a comenzar el viaje."
+  }
+}

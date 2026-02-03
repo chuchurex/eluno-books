@@ -1,0 +1,57 @@
+{
+  "siteTitle": "Adormecidos",
+  "bookTitle": "Adormecidos",
+  "description": "WIP",
+  "introduction": {
+    "title": "",
+    "content": [
+      "Conteúdo em breve..."
+    ]
+  },
+  "nav": {
+    "index": "Índice",
+    "chapter": "Cap",
+    "notes": "Notas",
+    "about": "Sobre",
+    "notesPanel": "Notas e Definições",
+    "notesEmpty": "Clique em qualquer <span class=\"term-hint\">termo destacado</span> para ver sua definição aqui.",
+    "tableOfContents": "Índice",
+    "previousChapter": "Capítulo Anterior",
+    "nextChapter": "Próximo Capítulo",
+    "backToIndex": "Voltar ao Índice",
+    "readChapter": "Ler capítulo",
+    "learnMore": "Saber mais"
+  },
+  "media": {
+    "downloadPdf": "Baixar PDF",
+    "downloadAudio": "Baixar MP3",
+    "listenAudio": "Ouvir",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "Primeira Edição",
+    "date": "2026",
+    "feedbackTitle": "Compartilhe Seus Pensamentos",
+    "formName": "Seu Nome",
+    "formEmail": "Seu Email",
+    "formMessage": "Sua Mensagem",
+    "formSubmit": "Enviar",
+    "formSuccess": "Obrigado! Sua mensagem foi recebida.",
+    "attribution": "",
+    "originalSessions": "",
+    "derivedFrom": ""
+  },
+  "meta": {
+    "version": "v1.0 · Janeiro 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "Sobre Esta Obra",
+    "text1": "Esta é uma obra em andamento.",
+    "text2": "",
+    "text3": "",
+    "text3b": ""
+  }
+}

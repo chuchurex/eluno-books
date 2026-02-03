@@ -1,0 +1,24 @@
+{
+  "name": "eluno-books",
+  "private": true,
+  "description": "Companion books to eluno.org — The Law of One through different lenses",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chuchurex/eluno-books.git"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "scripts": {
+    "dev:todo": "npm run dev -w @eluno/todo",
+    "dev:jesus": "npm run dev -w @eluno/jesus",
+    "dev:sanacion": "npm run dev -w @eluno/sanacion",
+    "dev:doctrinas": "npm run dev -w @eluno/doctrinas",
+    "dev:dormidos": "npm run dev -w @eluno/dormidos",
+    "build:all": "npm run build -w @eluno/todo && npm run build -w @eluno/jesus && npm run build -w @eluno/sanacion && npm run build -w @eluno/doctrinas && npm run build -w @eluno/dormidos"
+  }
+}

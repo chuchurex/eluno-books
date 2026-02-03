@@ -1,0 +1,93 @@
+# Capítulo 3: La Gracia
+
+El hijo menor tomó su herencia y se fue a una tierra lejana. Malgastó todo en una vida disoluta. Cuando una hambruna azotó aquella región, terminó cuidando cerdos, deseando llenar su estómago con las algarrobas que comían los animales.
+
+Entonces—dice el texto—"volvió en sí."
+
+Preparó un discurso: "Padre, he pecado contra el cielo y contra ti. Ya no soy digno de ser llamado tu hijo; hazme como a uno de tus jornaleros." Ensayó las palabras. Calculó lo que merecía. Se puso en camino esperando, en el mejor de los casos, un lugar entre los sirvientes.
+
+Pero el padre lo vio de lejos.
+
+"Y cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó."
+
+El hijo comenzó su discurso ensayado. No pudo terminarlo. El padre ya estaba dando órdenes: "Sacad el mejor vestido, y vestidle; y poned un anillo en su mano, y calzado en sus pies. Y traed el becerro gordo y matadlo, y comamos y hagamos fiesta."
+
+No hubo período de prueba. No hubo lista de condiciones. No hubo reproche. Solo alegría desbordada: "Este mi hijo muerto era, y ha revivido; se había perdido, y es hallado."
+
+Esta es la gracia.
+
+---
+
+La palabra griega es *charis*—favor inmerecido, regalo que no se gana. Pablo la definió con precisión quirúrgica: "Por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+
+No por obras. No por mérito. No por esfuerzo acumulado ni virtud demostrada. Don. Regalo. Algo que se recibe, no que se conquista.
+
+Esto escandaliza a algo profundo en nosotros. Queremos merecer. Queremos que las cuentas cuadren. Queremos que el amor sea la respuesta justa a nuestra bondad. La idea de un amor que precede a todo merecimiento—que sale corriendo antes de que lleguemos, antes de que terminemos nuestro discurso de arrepentimiento—desordena todas nuestras categorías.
+
+Y sin embargo, así describe Pablo el corazón de Dios: "Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros."
+
+Siendo aún pecadores. No después de que nos reformamos. No cuando demostramos suficiente cambio. No al final de un proceso de mejoramiento. Mientras todavía estábamos en la tierra lejana, alimentando cerdos, el amor ya se había puesto en movimiento.
+
+---
+
+Hay un momento en los evangelios que captura esto con una intensidad casi insoportable. Jesús está muriendo en la cruz. A su lado, dos criminales. Uno lo insulta. El otro, en algún momento de ese horror, tiene una revelación. Se vuelve—literalmente gira la cabeza hacia el cuerpo destrozado que todavía brilla con algo que él reconoce—y dice: "Acuérdate de mí cuando vengas en tu reino."
+
+No ofrece nada. No promete cambiar. No presenta credenciales ni excusas. Solo pide ser recordado.
+
+"Hoy estarás conmigo en el paraíso."
+
+Hoy. No después de un purgatorio. No tras un período de reparación. Hoy. El ladrón, el asesino confeso, entra al reino con una sola frase, un solo giro de cabeza, un solo momento de reconocimiento.
+
+¿Qué hizo? Se volvió. Pidió. Eso fue todo.
+
+La gracia no se gana porque no puede ganarse. Si pudiera ganarse, no sería gracia—sería salario. Pablo fue explícito: "Y si por gracia, ya no es por obras; de otra manera la gracia ya no es gracia."
+
+---
+
+Pero esto plantea una pregunta que ha inquietado a pensadores durante siglos: si la gracia es gratuita, ¿qué impide que todos la reciban? Si el padre corre hacia todo hijo que regresa, ¿por qué algunos no regresan?
+
+Quizás porque la gracia, aunque siempre disponible, debe ser aceptada. El regalo más generoso del universo no sirve de nada si permanece sin abrir.
+
+Hay algo en nosotros que resiste recibir. Preferimos ganar. Preferimos merecer. Preferimos llegar con nuestro discurso preparado y negociar un lugar entre los jornaleros. La gracia nos pide algo más difícil que el esfuerzo: nos pide soltar el control. Nos pide admitir que no podemos salvarnos a nosotros mismos.
+
+El hijo mayor de la parábola ilustra esta resistencia. Él nunca se fue. Siempre cumplió. Trabajó los campos, obedeció las reglas, acumuló mérito. Y cuando ve la fiesta para su hermano, se llena de ira. "Tantos años te sirvo, no habiéndote desobedecido jamás, y nunca me has dado ni un cabrito para gozarme con mis amigos."
+
+Él también necesitaba gracia. Pero no podía recibirla porque estaba demasiado ocupado contando sus obras.
+
+---
+
+El comienzo de la madurez espiritual es la aceptación—al fin—de que uno es perdonado. No que uno será perdonado cuando mejore lo suficiente. No que uno puede ser perdonado si cumple ciertas condiciones. Sino que uno es perdonado. Ahora. Ya. Antes de que el discurso termine.
+
+Esto no es permiso para hacer cualquier cosa. Es el fundamento desde el cual el cambio real se vuelve posible. El hijo que sabe que es amado puede soltar la vergüenza que lo mantenía en la tierra lejana. El que cree que debe ganarse el amor permanece calculando, esforzándose, nunca seguro de si ha hecho suficiente.
+
+"Donde abundó el pecado," escribió Pablo, "sobreabundó la gracia."
+
+No importa cuán lejos hayas ido. No importa cuánto hayas malgastado. No importa cuántos cerdos hayas alimentado. La gracia es mayor. Siempre es mayor.
+
+---
+
+¿Qué se requiere entonces? No perfección—eso es imposible. No un porcentaje específico de buenas obras—eso volvería a convertir la gracia en salario.
+
+Lo que se requiere es volverse. Girarse. Orientar el corazón hacia casa, aunque el camino sea largo y los pies estén cansados. El padre no exige que llegues limpio. Solo que te pongas en camino.
+
+El umbral no está custodiado por un juez con una lista de requisitos. El proceso es más simple y más misterioso: cada ser camina hacia la luz hasta donde puede recibirla. No hay examen externo. No hay tribunal que pese las obras contra los pecados. Solo está tu capacidad de acoger el amor—y esa capacidad crece precisamente al ejercitarla.
+
+Cada vez que perdonas, aumentas tu capacidad de recibir perdón. Cada vez que amas sin condiciones, expandes tu capacidad de ser amado sin condiciones. Cada vez que sueltas el resentimiento, te vuelves más liviano, más capaz de tolerar la intensidad del amor que siempre ha estado disponible.
+
+No es que Dios retenga la gracia hasta que merezcamos. Es que nosotros retenemos nuestra capacidad de recibirla mientras insistimos en merecerla.
+
+---
+
+El padre de la parábola no estaba castigando al hijo menor durante su tiempo en la tierra lejana. Estaba esperando en el camino, mirando el horizonte, listo para correr al primer signo de retorno. El sufrimiento del hijo no era castigo impuesto—era la consecuencia natural de estar lejos de casa.
+
+Y el remedio no era ganarse el regreso. Era simplemente regresar.
+
+"Acuérdate de mí."
+
+"Hoy estarás conmigo."
+
+La gracia no es complicada. Nosotros la complicamos porque no podemos creer que sea tan simple. Tan gratuita. Tan disponible.
+
+Pero lo es.
+
+Siempre lo ha sido.

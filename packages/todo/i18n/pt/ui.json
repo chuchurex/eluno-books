@@ -1,0 +1,57 @@
+{
+  "siteTitle": "Os Ensinamentos",
+  "bookTitle": "Os Ensinamentos da Lei do Um",
+  "description": "Um Convite para Recordar — Sabedoria ancestral para buscadores modernos, apresentada como história eterna.",
+  "introduction": {
+    "title": "",
+    "content": [
+      "Há uma história mais antiga que a memória. Foi contada de diferentes maneiras em todas as culturas. Talvez você já a conheça. Talvez, ao ler estas palavras, não esteja aprendendo algo novo, mas recordando algo que sempre carregou dentro de si."
+    ]
+  },
+  "nav": {
+    "index": "Índice",
+    "chapter": "Cap",
+    "notes": "Notas",
+    "about": "Sobre",
+    "notesPanel": "Notas e Definições",
+    "notesEmpty": "Clique em qualquer <span class=\"term-hint\">termo destacado</span> para ver sua definição aqui.",
+    "tableOfContents": "Sumário",
+    "previousChapter": "Capítulo Anterior",
+    "nextChapter": "Próximo Capítulo",
+    "backToIndex": "Voltar ao Índice",
+    "readChapter": "Ler capítulo",
+    "learnMore": "Saber mais"
+  },
+  "media": {
+    "downloadPdf": "Baixar PDF",
+    "downloadAudio": "Baixar MP3",
+    "listenAudio": "Ouvir",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "Primeira Edição",
+    "date": "2026",
+    "feedbackTitle": "Compartilhe seus Pensamentos",
+    "formName": "Seu Nome",
+    "formEmail": "Seu Email",
+    "formMessage": "Sua Mensagem",
+    "formSubmit": "Enviar",
+    "formSuccess": "Obrigado! Sua mensagem foi recebida.",
+    "attribution": "Esta obra é uma interpretação do Material Ra, publicado originalmente pela L/L Research.",
+    "originalSessions": "Sessões originais em",
+    "derivedFrom": "Conteúdo derivado do material da L/L Research"
+  },
+  "meta": {
+    "version": "v1.0 · Janeiro 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "Sobre Esta Obra",
+    "text1": "Este é um convite para recordar. A história aqui contada provém de Os Ensinamentos ancestrais, apresentada como lenda e sabedoria ao invés de doutrina.",
+    "text2": "Criada com assistência de IA, esta introdução gentil busca abrir corações ao invés de convencer mentes.",
+    "text3": "Para aqueles que desejam explorar mais profundamente, o material original está disponível gratuitamente em",
+    "text3b": "— isto é simplesmente um convite para começar a jornada."
+  }
+}

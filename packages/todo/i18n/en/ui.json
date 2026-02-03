@@ -1,0 +1,57 @@
+{
+  "siteTitle": "The Teachings",
+  "bookTitle": "The Teachings of the Law of One",
+  "description": "An Invitation to Remember — Ancient wisdom for modern seekers, presented as timeless story.",
+  "introduction": {
+    "title": "",
+    "content": [
+      "There is a story older than memory. It has been told in different ways across all cultures. Perhaps you already know it. Perhaps, in reading these words, you are not learning something new but remembering something you always carried within."
+    ]
+  },
+  "nav": {
+    "index": "Index",
+    "chapter": "Ch",
+    "notes": "Notes",
+    "about": "About",
+    "notesPanel": "Notes & Definitions",
+    "notesEmpty": "Click any <span class=\"term-hint\">highlighted term</span> in the text to see its definition here.",
+    "tableOfContents": "Table of Contents",
+    "previousChapter": "Previous Chapter",
+    "nextChapter": "Next Chapter",
+    "backToIndex": "Back to Index",
+    "readChapter": "Read chapter",
+    "learnMore": "Learn more"
+  },
+  "media": {
+    "downloadPdf": "Download PDF",
+    "downloadAudio": "Download MP3",
+    "listenAudio": "Listen",
+    "labelAudio": "MP3",
+    "labelPdf": "PDF",
+    "labelYoutube": "YouTube"
+  },
+  "footer": {
+    "draft": "First Edition",
+    "date": "2026",
+    "feedbackTitle": "Share Your Thoughts",
+    "formName": "Your Name",
+    "formEmail": "Your Email",
+    "formMessage": "Your Message",
+    "formSubmit": "Send",
+    "formSuccess": "Thank you! Your message has been received.",
+    "attribution": "This work is an interpretation of the Ra Material, originally published by L/L Research.",
+    "originalSessions": "Original sessions at",
+    "derivedFrom": "Content derived from L/L Research material"
+  },
+  "meta": {
+    "version": "v1.0 · January 2026"
+  },
+  "footerVersion": "",
+  "disclaimer": {
+    "title": "About This Work",
+    "text1": "This is an invitation to remember. The story told here is drawn from ancient teachings, presented as legend and wisdom rather than doctrine.",
+    "text2": "Created with AI assistance, this gentle introduction aims to open hearts rather than convince minds.",
+    "text3": "For those who wish to explore deeper, the original material is freely available at",
+    "text3b": "— this is merely an invitation to begin the journey."
+  }
+}
