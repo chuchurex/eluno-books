@@ -14,7 +14,7 @@
     "build:revision": "node scripts/build-revision.js"
   },
   "dependencies": {
-    "@eluno/core": "github:chuchurex/eluno-core"
+    "@eluno/core": "github:chuchurex/eluno-core#v2"
   },
   "devDependencies": {
     "concurrently": "^8.2.0",

@@ -7,14 +7,14 @@
     "sass:build": "sass node_modules/@eluno/core/scss/main.scss:dist/css/main.css --style=compressed",
     "serve": "live-server dist --port=3004",
     "dev": "concurrently \"npm run sass:watch\" \"npm run serve\"",
-    "build": "npm run sass:build && eluno-build",
+    "build": "eluno-build",
     "deploy": "eluno-deploy",
     "translate:chapter": "node node_modules/@eluno/core/scripts/translate-chapter.js",
     "build:pdf": "eluno-pdf",
     "publish:media": "eluno-publish-media"
   },
   "dependencies": {
-    "@eluno/core": "github:chuchurex/eluno-core"
+    "@eluno/core": "github:chuchurex/eluno-core#v2"
   },
   "devDependencies": {
     "concurrently": "^8.2.0",
