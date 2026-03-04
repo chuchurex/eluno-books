@@ -1,24 +1,19 @@
 {
   "name": "@eluno/jesus",
   "version": "1.0.0",
-  "description": "The One - Law of One Reinterpretation",
+  "description": "El Camino del Amor - Meditaciones sobre las enseñanzas de Jesús",
   "scripts": {
-    "sass:watch": "sass --watch node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
-    "sass:build": "sass node_modules/@eluno/core/scss/main.scss:dist/css/main.css --style=compressed",
+    "sass:watch": "sass --watch ../../node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
     "serve": "live-server dist --port=3005",
     "dev": "concurrently \"npm run sass:watch\" \"npm run serve\"",
-    "build": "eluno-build",
-    "deploy": "eluno-deploy",
-    "translate:chapter": "node node_modules/@eluno/core/scripts/translate-chapter.js",
-    "build:pdf": "eluno-pdf",
-    "publish:media": "eluno-publish-media"
+    "build": "eluno-build"
   },
   "dependencies": {
     "@eluno/core": "github:chuchurex/eluno-core#v2"
   },
   "devDependencies": {
-    "concurrently": "^8.2.0",
+    "concurrently": "^8.2.2",
     "live-server": "^1.2.2",
-    "sass": "^1.69.0"
+    "sass": "^1.97.3"
   }
 }
