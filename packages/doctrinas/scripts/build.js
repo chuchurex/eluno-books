@@ -21,8 +21,8 @@ const fs = require('fs');
 const path = require('path');
 
 const PROJECT_ROOT = process.cwd();
-const CORE_ROOT = path.join(__dirname, '..', '..', 'core');
 const MONOREPO_ROOT = path.join(__dirname, '..', '..', '..');
+const CORE_ROOT = path.join(MONOREPO_ROOT, 'node_modules', '@eluno', 'core');
 
 require('dotenv').config({ path: path.join(PROJECT_ROOT, '.env') });
 require('dotenv').config({ path: path.join(MONOREPO_ROOT, '.env') });
@@ -434,14 +434,13 @@ function build() {
     console.log(`\n🔤 Copied ${fontFiles.length} font files`);
   }
 
-  // Copy _headers
-  const headersTemplate = path.join(CORE_ROOT, '_headers.template');
-  const headersDest = path.join(DIST_DIR, '_headers');
-  if (fs.existsSync(headersTemplate)) {
-    let headersContent = fs.readFileSync(headersTemplate, 'utf8');
-    headersContent = headersContent.replace(/\{\{DOMAIN\}\}/g, DOMAIN);
-    fs.writeFileSync(headersDest, headersContent);
-    console.log(`📋 Generated _headers`);
+  // Copy static files (_headers, etc.)
+  const staticDir = path.join(PROJECT_ROOT, 'static');
+  if (fs.existsSync(staticDir)) {
+    fs.readdirSync(staticDir).forEach(file => {
+      fs.copyFileSync(path.join(staticDir, file), path.join(DIST_DIR, file));
+    });
+    console.log(`📋 Copied static files`);
   }
 
   console.log(`\n✨ Build complete!`);
