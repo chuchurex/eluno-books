@@ -3,16 +3,10 @@
   "version": "1.0.0",
   "description": "Dormidos - eluno.org",
   "scripts": {
-    "sass:watch": "sass --watch node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
-    "sass:build": "sass node_modules/@eluno/core/scss/main.scss:dist/css/main.css --style=compressed",
+    "sass:watch": "sass --watch ../../node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
     "serve": "live-server dist --port=3006",
     "dev": "concurrently \"npm run sass:watch\" \"npm run serve\"",
-    "build": "eluno-build",
-    "deploy": "eluno-deploy",
-    "translate:chapter": "node node_modules/@eluno/core/scripts/translate-chapter.js",
-    "translate:pt": "node node_modules/@eluno/core/scripts/translate-to-pt.js",
-    "build:pdf": "eluno-pdf",
-    "publish:media": "eluno-publish-media"
+    "build": "eluno-build"
   },
   "dependencies": {
     "@eluno/core": "github:chuchurex/eluno-core#v2"
