@@ -1,66 +1,66 @@
 {
   "all": {
-    "audio": "/audiobook/audio/es/doctrinas-audiolibro-completo.mp3",
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-audiolibro-completo.mp3",
     "pdf": ""
   },
   "1": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/01-la-caida.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-01-la-caida.mp3"
   },
   "2": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/02-la-naturaleza-del-hombre.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-02-la-naturaleza-del-hombre.mp3"
   },
   "3": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/03-la-gracia.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-03-la-gracia.mp3"
   },
   "4": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/04-la-cruz.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-04-la-cruz.mp3"
   },
   "5": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/05-la-redencion.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-05-la-redencion.mp3"
   },
   "6": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/06-la-fe.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-06-la-fe.mp3"
   },
   "7": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/07-las-obras.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-07-las-obras.mp3"
   },
   "8": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/08-la-eleccion.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-08-la-eleccion.mp3"
   },
   "9": {
     "pdf": "",
-    "audio": ""
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-09-el-espiritu-santo.mp3"
   },
   "10": {
     "pdf": "",
-    "audio": ""
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-10-los-centros-de-energia.mp3"
   },
   "11": {
     "pdf": "",
-    "audio": ""
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-11-el-infierno.mp3"
   },
   "12": {
     "pdf": "",
-    "audio": ""
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-12-el-cielo.mp3"
   },
   "13": {
     "pdf": "",
-    "audio": ""
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-13-la-segunda-venida.mp3"
   },
   "14": {
     "pdf": "",
-    "audio": ""
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-14-la-iglesia.mp3"
   },
   "15": {
     "pdf": "",
-    "audio": "/audiobook/audio/es/99-epilogo.mp3"
+    "audio": "/audiobook/audio/es/nuestras-doctrinas-cap-15-epilogo.mp3"
   }
 }
