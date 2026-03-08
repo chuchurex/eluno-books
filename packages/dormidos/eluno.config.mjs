@@ -11,4 +11,12 @@ export default {
   features: {
     termMarkup: true,
   },
+
+  audiobook: {
+    voices: { es: 'es-MX-JorgeNeural' },
+    tags: {
+      artist: 'eluno.org',
+      year: '2025',
+    }
+  },
 };

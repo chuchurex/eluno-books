@@ -14,4 +14,11 @@ export default {
     mediaToolbar: true,
     termMarkup: true,
   },
+
+  audiobook: {
+    tags: {
+      artist: 'eluno.org',
+      year: '2025',
+    }
+  },
 };

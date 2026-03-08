@@ -20,5 +20,9 @@
     "dev:doctrinas": "npm run dev -w @eluno/doctrinas",
     "dev:dormidos": "npm run dev -w @eluno/dormidos",
     "build:all": "npm run build -w @eluno/todo && npm run build -w @eluno/jesus && npm run build -w @eluno/sanacion && npm run build -w @eluno/doctrinas && npm run build -w @eluno/dormidos"
+  },
+  "dependencies": {
+    "node-edge-tts": "^1.2.10",
+    "node-id3": "^0.2.9"
   }
 }

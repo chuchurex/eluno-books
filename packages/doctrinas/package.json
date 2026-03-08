@@ -9,8 +9,12 @@
     "dev": "concurrently \"npm run sass:watch\" \"npm run serve\"",
     "build": "npm run sass:build && node scripts/build.js && npm run build:revision",
     "build:preview": "node scripts/build-preview.js",
-    "build:audiobook": "node scripts/build-audiobook.js",
-    "build:audiobook:tts": "node scripts/build-audiobook.js --tts",
+    "audio": "eluno-audio",
+    "audio:extract": "eluno-audio extract",
+    "audio:generate": "eluno-audio generate",
+    "audio:assemble": "eluno-audio assemble",
+    "audio:concat": "eluno-audio concat",
+    "audio:tag": "eluno-audio tag",
     "build:revision": "node scripts/build-revision.js"
   },
   "dependencies": {

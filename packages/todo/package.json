@@ -6,7 +6,13 @@
     "sass:watch": "sass --watch ../../node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
     "serve": "live-server dist --port=3002",
     "dev": "concurrently \"npm run sass:watch\" \"npm run serve\"",
-    "build": "eluno-build"
+    "build": "eluno-build",
+    "audio": "eluno-audio",
+    "audio:extract": "eluno-audio extract",
+    "audio:generate": "eluno-audio generate",
+    "audio:assemble": "eluno-audio assemble",
+    "audio:concat": "eluno-audio concat",
+    "audio:tag": "eluno-audio tag"
   },
   "dependencies": {
     "@eluno/core": "github:chuchurex/eluno-core#v2"
