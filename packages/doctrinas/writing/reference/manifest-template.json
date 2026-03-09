@@ -1,0 +1,70 @@
+{
+  "_template_version": "1.0",
+  "_instructions": [
+    "1. Copiar este archivo como manifest.json en workspace/chapters/chXX/",
+    "2. Llenar datos especificos del capitulo",
+    "3. Ejecutar: python3 writing/tools/extract-sources.py workspace/chapters/chXX/manifest.json",
+    "4. Los archivos de investigacion se escriben junto al manifiesto",
+    "5. Las listas de ra_sessions vienen de thematic-index.md",
+    "6. El ra_section_mapping conecta sesiones a secciones especificas del capitulo"
+  ],
+
+  "chapter": 0,
+  "title": "Titulo del Capitulo",
+  "part": "I — Fundamentos",
+  "closure": "Type D (Puente → Cap N+1)",
+  "target_words": "2500-3500",
+
+  "sections": [
+    {
+      "id": "chX-section-id",
+      "title": "Titulo de Seccion",
+      "angle": "Que argumenta o explora esta seccion"
+    }
+  ],
+
+  "writing_split": {
+    "_note": "Como dividir secciones entre conversaciones de escritura",
+    "conv_write_1": ["chX-section-1", "chX-section-2", "chX-section-3"],
+    "conv_write_2": ["chX-section-4", "chX-section-5"]
+  },
+
+  "ra_sessions": {
+    "_note": "Listas de sesiones de thematic-index.md. Expandir rangos inline (13.5-13.8 → 13.5, 13.6, 13.7, 13.8) o dejar como rangos para que el script los expanda.",
+    "primary": [],
+    "secondary": [],
+    "tertiary": []
+  },
+
+  "ra_section_mapping": {
+    "_note": "Mapea sesiones a secciones. Cada seccion lista sus sesiones primarias y secundarias.",
+    "chX-section-id": {
+      "primary": [],
+      "secondary": [],
+      "notes": "Contexto para el escritor sobre el angulo de esta seccion"
+    }
+  },
+
+  "quo_sessions": {
+    "_note": "Config de extraccion Q'uo. Usar frases multi-palabra especificas, no terminos genericos.",
+    "volume_10": {
+      "dates": [],
+      "search_terms": [],
+      "min_terms": 2,
+      "max_results": 8
+    },
+    "volume_11": {
+      "dates": [],
+      "search_terms": [],
+      "min_terms": 2,
+      "max_results": 8
+    }
+  },
+
+  "differentiation": {
+    "_note": "Que NO debe repetir de capitulos anteriores, y que PUEDE referenciar brevemente.",
+    "do_not_repeat": [],
+    "can_reference_briefly": [],
+    "previous_chapters_to_load": []
+  }
+}
