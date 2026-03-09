@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Build output
+dist/
+
 # Environment
 .env
 .env.local
@@ -14,3 +17,22 @@ node_modules/
 # Editor
 *.swp
 *.swo
+
+# Media
+audiobook/
+*.mp3
+*.mp4
+*.pdf
+
+# ===========================================
+# WRITING WORKSPACE (private drafts, sources)
+# ===========================================
+workspace/
+CLAUDE.md
+AGENTS.md
+.CLAUDE/
+
+# Temporary
+backups/
+*.bak
+*~
