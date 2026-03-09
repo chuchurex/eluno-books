@@ -1,62 +1,62 @@
 {
   "all": {
-    "audio": "",
+    "audio": "https://static.eluno.org/sanacion/audiobook/es/complete-book.mp3",
     "pdf": "/pdf/es/complete-book.pdf",
     "youtube": ""
   },
   "1": {
     "pdf": "/pdf/es/ch01.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch01.mp3",
     "youtube": ""
   },
   "2": {
     "pdf": "/pdf/es/ch02.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch02.mp3",
     "youtube": ""
   },
   "3": {
     "pdf": "/pdf/es/ch03.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch03.mp3",
     "youtube": ""
   },
   "4": {
     "pdf": "/pdf/es/ch04.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch04.mp3",
     "youtube": ""
   },
   "5": {
     "pdf": "/pdf/es/ch05.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch05.mp3",
     "youtube": ""
   },
   "6": {
     "pdf": "/pdf/es/ch06.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch06.mp3",
     "youtube": ""
   },
   "7": {
     "pdf": "/pdf/es/ch07.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch07.mp3",
     "youtube": ""
   },
   "8": {
     "pdf": "/pdf/es/ch08.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch08.mp3",
     "youtube": ""
   },
   "9": {
     "pdf": "/pdf/es/ch09.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch09.mp3",
     "youtube": ""
   },
   "10": {
     "pdf": "/pdf/es/ch10.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch10.mp3",
     "youtube": ""
   },
   "11": {
     "pdf": "/pdf/es/ch11.pdf",
-    "audio": "",
+    "audio": "/audiobook/es/ch11.mp3",
     "youtube": ""
   }
 }

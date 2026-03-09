@@ -1,82 +1,274 @@
 {
-  "awakening": {
-    "title": "Despertar",
-    "definition": "El proceso de recordar nuestra verdadera naturaleza como seres de amor y luz, reconociendo nuestra conexión con la Fuente Divina y toda la creación."
-  },
-  "healing": {
-    "title": "Sanación",
-    "definition": "La restauración de la plenitud y el equilibrio en cuerpo, mente y espíritu. La verdadera sanación no es meramente la ausencia de síntomas, sino la alineación con la naturaleza y propósito divinos de uno."
-  },
-  "forgiveness": {
-    "title": "Perdón",
-    "definition": "La liberación del resentimiento, juicio y agravios. Un acto sagrado que libera tanto al que perdona como al perdonado, permitiendo que el amor divino fluya sin obstrucciones."
-  },
-  "channel": {
-    "title": "Canal",
-    "definition": "Una persona que permite que la energía divina, sabiduría o poder sanador fluya a través de ella sin obstrucción. Quien sirve como conducto para las fuerzas espirituales."
-  },
   "Christ-consciousness": {
     "title": "Conciencia Crística",
     "definition": "Un estado de conciencia caracterizado por el amor incondicional, la unidad con todos los seres, y el reconocimiento de la presencia divina en todas las cosas. La conciencia que Jesús encarnó y enseñó."
   },
+  "acceptance": {
+    "title": "aceptación",
+    "definition": "El abrazo de toda experiencia sin resistencia ni juicio. Un componente clave del crecimiento espiritual y la sanación."
+  },
+  "adept": {
+    "title": "adepto",
+    "definition": "Quien ha progresado significativamente en el camino espiritual, capaz de trabajar con la energía inteligente de manera consciente y disciplinada."
+  },
+  "archetypical-mind": {
+    "title": "mente arquetípica",
+    "definition": "La estructura profunda de la conciencia que contiene los patrones y arquetipos fundamentales que dan forma a la experiencia en tercera densidad."
+  },
+  "awakening": {
+    "title": "despertar",
+    "definition": "El proceso de recordar nuestra verdadera naturaleza como seres de amor y luz, reconociendo nuestra conexión con la Fuente Divina y toda la creación."
+  },
+  "balance": {
+    "title": "equilibrio",
+    "definition": "La integración armoniosa de todos los aspectos del ser. El estado en el cual las fuerzas opuestas se mantienen en equilibrio dinámico."
+  },
+  "balancing": {
+    "title": "equilibrado",
+    "definition": "La práctica de aceptar e integrar experiencias y emociones tanto positivas como negativas, permitiendo que la energía fluya libremente a través de todos los centros."
+  },
+  "blockage": {
+    "title": "bloqueo",
+    "definition": "Una obstrucción en el flujo de energía a través de los centros energéticos, típicamente causada por asuntos emocionales, mentales o espirituales sin resolver."
+  },
+  "blue-ray": {
+    "title": "rayo azul",
+    "definition": "El quinto centro energético, asociado con la comunicación, la expresión honesta y la capacidad de compartir la verdad interior con otros."
+  },
+  "buddha-body": {
+    "title": "Cuerpo Búdico",
+    "definition": "El cuerpo energético completamente activado y equilibrado, que representa el estado de realización espiritual completa y plenitud."
+  },
   "catalyst": {
-    "title": "Catalizador",
+    "title": "catalizador",
     "definition": "Experiencias, desafíos o eventos que estimulan el crecimiento y aprendizaje espiritual. Oportunidades de transformación disfrazadas como dificultades."
   },
+  "chakra": {
+    "title": "chakra",
+    "definition": "Un centro energético dentro del cuerpo sutil. Siete chakras principales se alinean a lo largo de la columna vertebral, cada uno gobernando aspectos específicos de la experiencia física, emocional y espiritual."
+  },
+  "channel": {
+    "title": "canal",
+    "definition": "Una persona que permite que la energía divina, sabiduría o poder sanador fluya a través de ella sin obstrucción. Quien sirve como conducto para las fuerzas espirituales."
+  },
+  "conscious-mind": {
+    "title": "mente consciente",
+    "definition": "La capa superficial de conciencia que procesa la experiencia diaria. En la sanación, debe aprender a cooperar con las capas más profundas de la mente."
+  },
+  "contemplation": {
+    "title": "contemplación",
+    "definition": "Una práctica de reflexión profunda y sostenida sobre verdades espirituales, permitiendo que la comprensión pase del nivel intelectual al experiencial."
+  },
   "crystallization": {
-    "title": "Cristalización",
+    "title": "cristalización",
     "definition": "El proceso de clarificar y fortalecer la esencia espiritual de uno a través de la práctica, elección y dedicación. El refinamiento del alma mediante el vivir intencional."
   },
+  "crystallized": {
+    "title": "cristalizado",
+    "definition": "Un estado de claridad espiritual refinada en el cual los patrones energéticos se han vuelto estables, coherentes y capaces de canalizar energía inteligente."
+  },
+  "crystallized-entity": {
+    "title": "entidad cristalizada",
+    "definition": "Un ser cuyo cuerpo energético ha alcanzado un alto grado de cristalización, permitiéndole servir como canal claro para la sanación y el trabajo espiritual."
+  },
+  "deep-mind": {
+    "title": "mente profunda",
+    "definition": "El vasto reservorio, en gran parte inconsciente, de sabiduría, memoria y patrones arquetípicos que yace bajo la conciencia ordinaria."
+  },
+  "density": {
+    "title": "densidad",
+    "definition": "Un nivel o dimensión de evolución de la conciencia. La tercera densidad es la experiencia humana actual, caracterizada por la elección entre servicio a otros y servicio al yo."
+  },
   "desire": {
-    "title": "Deseo",
+    "title": "deseo",
     "definition": "El anhelo del alma hacia el crecimiento, el amor y la reunión con lo Divino. Añoranza sagrada que impulsa la evolución espiritual."
   },
+  "distortion": {
+    "title": "distorsión",
+    "definition": "Cualquier desviación de la unidad indiferenciada. No necesariamente negativa — toda la creación es una distorsión del Creador Infinito Único, incluyendo el libre albedrío y el amor."
+  },
+  "elitism": {
+    "title": "elitismo",
+    "definition": "La trampa espiritual de creerse superior debido a habilidades o conocimientos avanzados. Una distorsión que bloquea el centro energético del rayo verde."
+  },
   "energy-body": {
-    "title": "Cuerpo Energético",
+    "title": "cuerpo energético",
     "definition": "El aspecto sutil, no físico de un ser compuesto de fuerza vital. Esto incluye el aura, chakras y sistemas meridianos a través de los cuales fluye la energía sanadora."
   },
+  "energy-center": {
+    "title": "centro energético",
+    "definition": "Un punto en el cuerpo energético donde convergen las energías espirituales, emocionales y físicas. Estos centros procesan y distribuyen la fuerza vital a través del ser."
+  },
   "energy-centers": {
-    "title": "Centros Energéticos",
+    "title": "centros energéticos",
     "definition": "Puntos en el cuerpo energético (chakras) donde convergen las energías espirituales, emocionales y físicas. Estos centros procesan y distribuyen la fuerza vital a través del ser."
   },
+  "experience": {
+    "title": "experiencia",
+    "definition": "El arquetipo del principio activo en la conciencia, que representa el proceso dinámico por el cual el catalizador se procesa y transforma en sabiduría."
+  },
   "faith": {
-    "title": "Fe",
+    "title": "fe",
     "definition": "Confianza en el amor y sabiduría divinos más allá de lo que los sentidos físicos pueden percibir. La disposición a permanecer abierto a la verdad y guía espiritual."
   },
+  "forgiveness": {
+    "title": "perdón",
+    "definition": "La liberación del resentimiento, juicio y agravios. Un acto sagrado que libera tanto al que perdona como al perdonado, permitiendo que el amor divino fluya sin obstrucciones."
+  },
   "free-will": {
-    "title": "Libre Albedrío",
+    "title": "libre albedrío",
     "definition": "El don sagrado de elección otorgado a todos los seres. La capacidad de elegir amor o miedo, servicio o separación, en cada momento."
   },
+  "green-ray": {
+    "title": "rayo verde",
+    "definition": "El cuarto centro energético, el chakra del corazón. Asociado con el amor incondicional, la compasión y la puerta hacia el desarrollo espiritual superior."
+  },
+  "harvest": {
+    "title": "cosecha",
+    "definition": "El punto de transición al final de un ciclo de densidad donde los seres son evaluados por su preparación para progresar al siguiente nivel de evolución de la conciencia."
+  },
+  "healing": {
+    "title": "sanación",
+    "definition": "La restauración de la plenitud y el equilibrio en cuerpo, mente y espíritu. La verdadera sanación no es meramente la ausencia de síntomas, sino la alineación con la naturaleza y propósito divinos de uno."
+  },
+  "higher-self": {
+    "title": "Yo Superior",
+    "definition": "El aspecto del ser total que existe en el nivel de la sexta densidad media, sirviendo como guía y recurso para el yo encarnado."
+  },
+  "indigo-ray": {
+    "title": "rayo índigo",
+    "definition": "El sexto centro energético, asociado con el tercer ojo, la intuición y el acceso directo a la infinidad inteligente. La puerta a la presencia del Creador."
+  },
+  "infinite-creator": {
+    "title": "Creador Infinito",
+    "definition": "El Pensamiento Original Único, la fuente de todo lo que existe. La unidad de la cual emerge toda la creación y a la cual todo retorna."
+  },
+  "initiation": {
+    "title": "iniciación",
+    "definition": "Una experiencia o pasaje transformador que marca un avance significativo en el desarrollo y la comprensión espiritual."
+  },
+  "inner-light": {
+    "title": "luz interior",
+    "definition": "La chispa divina dentro de cada ser, la presencia del Creador en el núcleo de toda conciencia. La luz que permite la sanación desde adentro."
+  },
   "inner-planes": {
-    "title": "Planos Internos",
+    "title": "planos internos",
     "definition": "Dimensiones no físicas de existencia donde la conciencia opera más allá del cuerpo físico. Reinos del espíritu, pensamiento y energía accesibles a través de la meditación y práctica espiritual."
   },
+  "intelligent-energy": {
+    "title": "energía inteligente",
+    "definition": "La fuerza creativa del universo, la energía a través de la cual el Creador Infinito manifiesta todas las cosas. El aspecto dinámico de la infinidad inteligente."
+  },
+  "intelligent-infinity": {
+    "title": "infinidad inteligente",
+    "definition": "La unidad indiferenciada y absoluta de la cual surge toda la creación. El estado de potencial infinito que precede a toda manifestación."
+  },
+  "intuition": {
+    "title": "intuición",
+    "definition": "Conocimiento directo que sobrepasa la mente analítica, surgiendo de niveles más profundos de conciencia. Una facultad que se fortalece con la práctica espiritual."
+  },
   "karma": {
-    "title": "Karma",
+    "title": "karma",
     "definition": "La ley espiritual de causa y efecto. No es castigo, sino el equilibrio natural de energías y oportunidades para aprender de nuestras elecciones."
   },
+  "light": {
+    "title": "luz",
+    "definition": "La manifestación de la energía inteligente en su forma más fundamental. Tanto el medio como el instrumento del poder creativo del Creador."
+  },
   "light-touch": {
-    "title": "Toque Sutil",
+    "title": "toque sutil",
     "definition": "Un enfoque gentil y respetuoso hacia la sanación que honra el libre albedrío y soberanía de quien recibe sanación. Trabajar con energías sutiles en lugar de fuerza."
   },
+  "magical-personality": {
+    "title": "personalidad mágica",
+    "definition": "La expresión directa del yo superior a través del ser encarnado, accedida a través de la práctica espiritual disciplinada y la invocación."
+  },
+  "magical-working": {
+    "title": "trabajo mágico",
+    "definition": "Trabajo espiritual consciente e intencional que recurre a la energía inteligente para crear cambio en concordancia con la voluntad alineada con el propósito divino."
+  },
   "meditation": {
-    "title": "Meditación",
+    "title": "meditación",
     "definition": "La práctica de aquietar la mente y abrir el corazón para recibir guía y sanación divinas. Un espacio sagrado de comunión con la Fuente."
   },
+  "mind-complex": {
+    "title": "complejo mental",
+    "definition": "La totalidad del aspecto mental de un ser, incluyendo las capas consciente, subconsciente y superconsciente de la conciencia."
+  },
+  "mindbodyspirit-complex": {
+    "title": "complejo mente/cuerpo/espíritu",
+    "definition": "El ser completo como se entiende en términos espirituales — la integración de los aspectos mental, físico y espiritual que juntos forman la entidad encarnada."
+  },
+  "mindbodyspirit-complex-totality": {
+    "title": "totalidad del complejo mente/cuerpo/espíritu",
+    "definition": "El yo completo a través de todas las líneas temporales, densidades y encarnaciones — la expresión plena del viaje del alma a través de la creación."
+  },
+  "orange-ray": {
+    "title": "rayo naranja",
+    "definition": "El segundo centro energético, que gobierna la identidad personal, la expresión individual y las relaciones de uno a uno."
+  },
   "polarity": {
-    "title": "Polaridad",
+    "title": "polaridad",
     "definition": "La existencia de opuestos aparentes (luz/oscuridad, positivo/negativo, servicio a otros/servicio al yo) que crean la tensión dinámica necesaria para el crecimiento y la elección."
   },
   "prana": {
-    "title": "Prana",
+    "title": "prana",
     "definition": "La energía universal de fuerza vital que sostiene a todos los seres vivientes. También conocida como chi, ki, o energía vital. El aliento de lo Divino que anima la creación."
   },
+  "pre-incarnative-programming": {
+    "title": "programación pre-encarnativa",
+    "definition": "Las lecciones, relaciones y experiencias elegidas por el alma antes de la encarnación como oportunidades de crecimiento y servicio."
+  },
+  "pyramid": {
+    "title": "pirámide",
+    "definition": "Una forma geométrica que concentra y enfoca la energía espiritual. Utilizada históricamente como herramienta para la sanación e iniciación."
+  },
+  "red-ray": {
+    "title": "rayo rojo",
+    "definition": "El primer centro energético, el fundamento del cuerpo energético. Asociado con la supervivencia, la fisicalidad y la fuerza vital básica."
+  },
   "service": {
-    "title": "Servicio",
+    "title": "servicio",
     "definition": "La ofrenda de los dones, energía y presencia de uno para el beneficio de otros y el bien mayor. El amor hecho visible a través de la acción."
   },
+  "spirit-complex": {
+    "title": "complejo espiritual",
+    "definition": "El aspecto espiritual de un ser que lo conecta con lo infinito y eterno. El canal a través del cual la energía divina entra en la experiencia encarnada."
+  },
+  "subconscious": {
+    "title": "subconsciente",
+    "definition": "Las capas más profundas de la mente que almacenan memorias, procesan catalizador y conectan con la mente arquetípica. Un vasto recurso para la sanación y el autoconocimiento."
+  },
+  "unforgiveness": {
+    "title": "imperdonabilidad",
+    "definition": "El aferrarse al resentimiento y al agravio que bloquea el flujo de energía sanadora, particularmente a través del centro del rayo verde."
+  },
+  "veil": {
+    "title": "velo",
+    "definition": "El olvido que ocurre en la encarnación, separando la conciencia despierta del conocimiento pleno de la propia naturaleza espiritual y elecciones pre-encarnativas."
+  },
+  "violet-ray": {
+    "title": "rayo violeta",
+    "definition": "El séptimo centro energético, el chakra de la corona. Representa la totalidad del ser y su relación con el Creador Infinito."
+  },
+  "visualization": {
+    "title": "visualización",
+    "definition": "El uso disciplinado de la imaginería mental como herramienta espiritual para la sanación, transformación y acceso a estados más profundos de conciencia."
+  },
+  "wanderer": {
+    "title": "errante",
+    "definition": "Un ser de una densidad superior que ha elegido encarnar en tercera densidad para servir a otros, a menudo al costo de olvidar su verdadera naturaleza."
+  },
+  "wholeness": {
+    "title": "plenitud",
+    "definition": "El estado fundamental de completitud que es la verdadera naturaleza de todo ser. La sanación es el retorno a la conciencia de esta plenitud inherente."
+  },
   "will": {
-    "title": "Voluntad",
+    "title": "voluntad",
     "definition": "La facultad de elección consciente e intención dirigida. Cuando se alinea con la voluntad divina, se convierte en una fuerza poderosa para la sanación y transformación."
+  },
+  "yellow-ray": {
+    "title": "rayo amarillo",
+    "definition": "El tercer centro energético, asociado con la identidad social, las dinámicas de grupo y la relación con la sociedad e instituciones."
   }
 }
