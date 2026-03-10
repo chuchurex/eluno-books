@@ -31,21 +31,21 @@
     "labelYoutube": "YouTube"
   },
   "footer": {
-    "draft": "Primera Edición",
+    "draft": "Primera Edición (Archivada)",
     "date": "2026",
     "attribution": "",
     "originalSessions": "",
     "derivedFrom": "© 2026 Libro Sanación"
   },
   "meta": {
-    "version": "v1.0 · Enero 2026"
+    "version": "v1.0 · Enero 2026 (Archivada)"
   },
   "footerVersion": "",
   "disclaimer": {
-    "title": "Sobre Esta Obra",
-    "text1": "Este libro es una guía completa de la práctica de sanación.",
-    "text2": "Creado con dedicación para compartir la sabiduría de la sanación.",
-    "text3": "",
+    "title": "Primera Edición (Archivada)",
+    "text1": "Esta es la primera edición de Sanación, escrita en enero de 2026.",
+    "text2": "Una segunda edición revisada y ampliada está ahora disponible.",
+    "text3": "Recomendamos leer la edición más reciente en <a href=\"https://sanacion.eluno.org\">sanacion.eluno.org</a>",
     "text3b": ""
   }
 }

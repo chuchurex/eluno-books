@@ -31,21 +31,21 @@
     "labelYoutube": "YouTube"
   },
   "footer": {
-    "draft": "First Edition",
+    "draft": "First Edition (Archived)",
     "date": "2026",
     "attribution": "",
     "originalSessions": "",
     "derivedFrom": "© 2026 Sanacion Book"
   },
   "meta": {
-    "version": "v1.0 · January 2026"
+    "version": "v1.0 · January 2026 (Archived)"
   },
   "footerVersion": "",
   "disclaimer": {
-    "title": "About This Work",
-    "text1": "This book is a comprehensive guide to healing practice.",
-    "text2": "Created with care to share the wisdom of healing.",
-    "text3": "",
+    "title": "First Edition (Archived)",
+    "text1": "This is the first edition of Healing, written in January 2026.",
+    "text2": "A revised and expanded second edition is now available.",
+    "text3": "We recommend reading the latest edition at <a href=\"https://sanacion.eluno.org\">sanacion.eluno.org</a>",
     "text3b": ""
   }
 }

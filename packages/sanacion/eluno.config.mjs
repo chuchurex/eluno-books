@@ -1,5 +1,5 @@
 export default {
-  siteUrl: 'https://sanacion.eluno.org',
+  siteUrl: 'https://sanador.eluno.org',
   languages: ['en', 'es'],
   baseLang: 'en',
   baseLangPrefix: false,
