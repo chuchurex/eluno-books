@@ -113,6 +113,41 @@ Las marcas `{src:}` son metadata de trabajo. Se eliminan del JSON final publicab
 
 ---
 
+## REGLAS DE ACCESIBILIDAD
+
+### Densidad de terminología
+- **Máximo 7 `{term:}` por capítulo.** Si un capítulo tiene más de 7, priorizar los más esenciales.
+- **NUNCA usar `{term:}` en la primera oración de un capítulo.** La apertura debe enganchar, no etiquetar.
+- Cada término técnico necesita contexto emocional o experiencial ANTES de la marca. El lector debe sentir el concepto antes de nombrarlo.
+
+### Voz correcta vs incorrecta
+
+**Incorrecto** (estilo manual de texto):
+```
+"The being who seeks healing does not seek something new. The being
+seeks to return to what it has always been. This is the first and
+most essential understanding we can offer: healing is a movement
+inward, toward a wholeness that already exists."
+```
+
+**Correcto** (estilo invitación — como todo.eluno.org):
+```
+"There is something you already know, even if you cannot name it.
+Beneath the pain, beneath the confusion, beneath whatever brought
+you here — something in you is whole. It has always been whole.
+Healing is not about fixing what is broken. It is about remembering
+what was never lost."
+```
+
+**Diferencias clave:** Oraciones más cortas. "You" en vez de "the being." Experiencia antes que concepto. Invitación en vez de instrucción.
+
+### Aperturas de capítulo
+- Cada capítulo debe funcionar para un lector que lo abre al azar
+- Abrir con: imagen concreta, pregunta provocativa, o experiencia humana reconocible
+- NUNCA abrir con: referencia a capítulo anterior, definición, o término técnico marcado
+
+---
+
 ## NOTAS DE TRADUCCIÓN (EN → ES)
 
 ### Terminología específica de sanación
