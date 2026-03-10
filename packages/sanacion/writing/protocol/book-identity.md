@@ -26,6 +26,28 @@ Igual que en eluno: el texto implica una perspectiva más amplia SIN revelar exp
 
 ---
 
+## VOZ FUNDACIONAL
+
+Este libro nació de la misma voz que "Todo" (todo.eluno.org) — una invitación gentil a recordar. La voz no es académica ni sistemática. Es la de un amigo sabio que comparte verdades profundas con calidez y sencillez.
+
+### Principio guía: el test del amigo
+Cada párrafo debe pasar esta prueba: ¿suena como algo que le dirías a un amigo que está sufriendo y busca comprender? Si suena como un manual de texto o una conferencia, reescríbelo.
+
+### Meta emocional del lector
+
+| Al abrir el capítulo | Al leerlo | Al cerrarlo |
+|---------------------|-----------|-------------|
+| Curiosidad, bienvenida | Comprensión, asombro suave | Esperanza, paz |
+| NUNCA: intimidación | NUNCA: confusión | NUNCA: sentirse abrumado |
+
+### Voz directa
+- PREFERIR "you/your" sobre "the being", "the seeker", "the one who"
+- El libro habla CON el lector, no SOBRE un lector abstracto
+- Correcto: "You carry within you the capacity for wholeness"
+- Incorrecto: "The being who seeks healing carries within itself the capacity for wholeness"
+
+---
+
 ## ESTRUCTURA (11 capítulos)
 
 | # | Título EN | Título ES |

@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+
+# ===========================================
+# SECRETS & CREDENTIALS
+# ===========================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ===========================================
+# MEDIA FILES
+# ===========================================
+audiobook/
+*.mp3
+*.mp4
+*.pdf
+
+# ===========================================
+# WRITING WORKSPACE (private drafts, sources)
+# ===========================================
+workspace/
+CLAUDE.md
+AGENTS.md
+.CLAUDE/
+
+# ===========================================
+# TEMPORARY & BACKUP FILES
+# ===========================================
+backups/
+*.zip
+*.tar.gz
+*.bak
+*~
+borradores/

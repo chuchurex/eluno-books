@@ -22,6 +22,8 @@
     "build:all": "npm run build -w @eluno/todo && npm run build -w @eluno/jesus && npm run build -w @eluno/sanacion && npm run build -w @eluno/doctrinas && npm run build -w @eluno/dormidos"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "dotenv": "^17.3.1",
     "node-edge-tts": "^1.2.10",
     "node-id3": "^0.2.9"
   }

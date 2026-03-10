@@ -112,6 +112,38 @@ El texto NO debe contener ninguna mención de:
 - "the Law of One material", "the Ra Contact"
 - Cualquier referencia directa a fuentes
 
+### J) CALIDEZ Y ACCESIBILIDAD
+Verificar que el texto suene como un amigo sabio, no como un manual de texto:
+
+1. **Apertura** — ¿Engancha emocionalmente? ¿NO abre con referencia a capítulo anterior ni con definición?
+2. **Voz directa** — ¿Se usa "you/your" más que "the being/the seeker/the one who"? Contar instancias.
+   - Target: ratio "you/your" por 1000 palabras ≥ 25 (referencia: todo Ch1 = 30.4)
+   - Red flag: ratio "the being/seeker" por 1000 palabras > 5
+3. **Imágenes antes de conceptos** — ¿Hay experiencia humana reconocible ANTES de cada concepto abstracto?
+4. **Accesibilidad** — ¿Un lector sin conocimiento del Material Ra puede seguir el texto?
+5. **Densidad de {term:}** — ¿Hay ≤7 marcas `{term:}` en el capítulo? ¿Ninguna en la primera oración?
+6. **Test del amigo** — ¿Suena como algo que le dirías a un amigo que busca comprender, o como una conferencia?
+
+### K) JERGA RA FILTRADA
+Terminología cruda del Material Ra que se filtra al texto sin contexto suficiente.
+El lector NO conoce el Material Ra. Cada término técnico necesita anclaje experiencial.
+
+**Palabras que NO deben aparecer sin contexto:**
+- "entity" como sustituto de "you/someone/a person" — es jerga Ra, no lenguaje natural
+- "mind/body/spirit complex" usado como etiqueta sin explicar primero qué son mente, cuerpo y espíritu por separado
+- Nombres de rayos por color (green ray, blue ray, indigo, violet) sin explicar el sistema de centros de energía
+- "first/second/third distortion" como numeración técnica sin contexto
+- "the Creator" como sujeto sin haber establecido qué significa
+- "intelligent infinity" sin anclaje experiencial previo
+- "harvest/cosecha" sin contexto narrativo
+
+**Test:** Reemplaza cada término técnico por "[???]". ¿La oración pierde sentido completamente?
+Si sí → el término es un muleta, no una herramienta. Reescribir con experiencia primero.
+
+**Error típico (v2 Ch1):**
+- ❌ "If an entity is not in harmony with its circumstances, it feels a burning within"
+- ✅ "If you are not in harmony with your circumstances, you feel a burning within"
+
 ---
 
 ## FORMATO DE REPORTE
@@ -181,10 +213,13 @@ PROMPT 10: Traducción PT
   como parte del flujo después de que el operador aprueba el contenido.
 - **El QA es bloqueante.** Si el veredicto es 🔴 o 🟡, se corrige ANTES de avanzar a JSONs.
 - **El QA de traducción** verifica los mismos puntos más:
-  - ¿Todas las {ref:} y {term:} se mantuvieron idénticas?
+  - ¿Todas las {ref:} y {term:} se mantuvieron con keywords IDÉNTICOS al EN?
+    Los keywords son IDs (ej: `{term:healing}`, no `{term:sanación}`). El glosario
+    por idioma resuelve la traducción. Si el EN tiene 5 {term:}, el ES debe tener 5.
   - ¿La terminología es equivalente (density→densidad→densidade)?
   - ¿La voz sapiencial se mantiene en el idioma destino?
   - ¿Es prosa natural, no traducción literal?
+  - ¿El ratio "tú/te/ti" vs "el ser/el buscador" es comparable al del EN?
 
 ---
 
