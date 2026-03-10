@@ -31,21 +31,21 @@
     "labelYoutube": "YouTube"
   },
   "footer": {
-    "draft": "Primera Edición",
+    "draft": "Segunda Edición",
     "date": "2026",
     "attribution": "",
     "originalSessions": "",
     "derivedFrom": "© 2026 Libro Sanación"
   },
   "meta": {
-    "version": "v1.0 · Enero 2026"
+    "version": "v2.0 · Marzo 2026"
   },
   "footerVersion": "",
   "disclaimer": {
     "title": "Sobre Esta Obra",
-    "text1": "Este libro es una guía completa de la práctica de sanación.",
-    "text2": "Creado con dedicación para compartir la sabiduría de la sanación.",
-    "text3": "",
+    "text1": "Esta es la segunda edición de Sanación, completamente reescrita en marzo de 2026.",
+    "text2": "Creado con asistencia de IA, este libro explora la sanación como restauración de la totalidad — nutriéndose de sabiduría ancestral presentada con calidez y claridad.",
+    "text3": "La primera edición (enero 2026) está preservada en <a href=\"https://sanador.eluno.org\">sanador.eluno.org</a>",
     "text3b": ""
   }
 }

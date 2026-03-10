@@ -31,21 +31,21 @@
     "labelYoutube": "YouTube"
   },
   "footer": {
-    "draft": "First Edition",
+    "draft": "Second Edition",
     "date": "2026",
     "attribution": "",
     "originalSessions": "",
     "derivedFrom": "© 2026 Sanacion Book"
   },
   "meta": {
-    "version": "v1.0 · January 2026"
+    "version": "v2.0 · March 2026"
   },
   "footerVersion": "",
   "disclaimer": {
     "title": "About This Work",
-    "text1": "This book is a comprehensive guide to healing practice.",
-    "text2": "Created with care to share the wisdom of healing.",
-    "text3": "",
+    "text1": "This is the second edition of Healing, completely rewritten in March 2026.",
+    "text2": "Created with AI assistance, this book explores healing as the restoration of wholeness — drawing from ancient wisdom presented with warmth and clarity.",
+    "text3": "The first edition (January 2026) is preserved at <a href=\"https://sanador.eluno.org\">sanador.eluno.org</a>",
     "text3b": ""
   }
 }
