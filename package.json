@@ -7,19 +7,17 @@
     "type": "git",
     "url": "https://github.com/chuchurex/eluno-books.git"
   },
-  "workspaces": [
-    "packages/*"
-  ],
+  "packageManager": "pnpm@10.15.1",
   "devDependencies": {
     "concurrently": "^8.2.0"
   },
   "scripts": {
-    "dev:todo": "npm run dev -w @eluno/todo",
-    "dev:jesus": "npm run dev -w @eluno/jesus",
-    "dev:sanacion": "npm run dev -w @eluno/sanacion",
-    "dev:doctrinas": "npm run dev -w @eluno/doctrinas",
-    "dev:dormidos": "npm run dev -w @eluno/dormidos",
-    "build:all": "npm run build -w @eluno/todo && npm run build -w @eluno/jesus && npm run build -w @eluno/sanacion && npm run build -w @eluno/doctrinas && npm run build -w @eluno/dormidos"
+    "dev:todo": "pnpm --filter @eluno/todo dev",
+    "dev:jesus": "pnpm --filter @eluno/jesus dev",
+    "dev:sanacion": "pnpm --filter @eluno/sanacion dev",
+    "dev:doctrinas": "pnpm --filter @eluno/doctrinas dev",
+    "dev:dormidos": "pnpm --filter @eluno/dormidos dev",
+    "build:all": "pnpm --filter @eluno/todo build && pnpm --filter @eluno/jesus build && pnpm --filter @eluno/sanacion build && pnpm --filter @eluno/doctrinas build && pnpm --filter @eluno/dormidos build"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.78.0",
