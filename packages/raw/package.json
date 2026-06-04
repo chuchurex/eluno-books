@@ -1,0 +1,25 @@
+{
+  "name": "@eluno/raw",
+  "version": "1.0.0",
+  "description": "Raw — Distilled knowledge from The One",
+  "scripts": {
+    "sass:watch": "sass --watch ../../node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
+    "serve": "live-server dist --port=3007",
+    "dev": "concurrently \"pnpm run sass:watch\" \"pnpm run serve\"",
+    "build": "eluno-build",
+    "audio": "eluno-audio",
+    "audio:extract": "eluno-audio extract",
+    "audio:generate": "eluno-audio generate",
+    "audio:assemble": "eluno-audio assemble",
+    "audio:concat": "eluno-audio concat",
+    "audio:tag": "eluno-audio tag"
+  },
+  "dependencies": {
+    "@eluno/core": "github:chuchurex/eluno-core#v2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "live-server": "^1.2.2",
+    "sass": "^1.97.3"
+  }
+}
