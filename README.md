@@ -1,4 +1,4 @@
-# eluno-books — Transparent Distortions
+# eluno-books - Transparent Distortions
 
 ## What is this project?
 
@@ -16,7 +16,7 @@ There is a well-documented psychological phenomenon where certain words or conce
 
 - **Conscious shocks** (G.I. Gurdjieff, Fourth Way): Gurdjieff taught that humans live in "waking sleep" and require shocks to awaken. However, he also warned that shocks administered without preparation produce resistance rather than awakening.
 
-Each book in this project removes the specific trigger words that would activate reactance in its target audience, while preserving the complete philosophical message. Nothing is added that isn't in the source. Content is only omitted — never distorted into falsehood.
+Each book in this project removes the specific trigger words that would activate reactance in its target audience, while preserving the complete philosophical message. Nothing is added that isn't in the source. Content is only omitted - never distorted into falsehood.
 
 This is not deception. It is the same compassionate principle used by every good teacher: meeting the student where they are.
 
@@ -62,7 +62,7 @@ The core philosophical book (000 - El Uno / The One) lives in a [separate reposi
 
 ## Transparency
 
-The writing prompts and AI generation process for each book are available in this repository. Every distortion is documented and intentional. The reader of any version can trace back to the source material and verify that nothing has been falsified — only adapted.
+The writing prompts and AI generation process for each book are available in this repository. Every distortion is documented and intentional. The reader of any version can trace back to the source material and verify that nothing has been falsified - only adapted.
 
 This is what we call a **transparent distortion**: the philosophical equivalent of translating between languages, except the translation is between worldviews rather than vocabularies.
 
@@ -72,23 +72,42 @@ Each book has a `PROMPT.md` file that documents its voice, terminology, and targ
 
 ## Development
 
+This is a pnpm monorepo (pnpm 10.15.1). Each book is an independent workspace under `packages/*`, and they all share `@eluno/core` as build tooling. Use pnpm, not npm.
+
 ### Installation
 ```bash
-npm install
+pnpm install
 ```
 
 ### Working on a book
+Dev aliases from the repo root (`sass --watch` + `live-server` in parallel):
 ```bash
-npm run dev:todo       # http://127.0.0.1:3002
-npm run dev:sanacion   # http://127.0.0.1:3004
-npm run dev:jesus      # http://127.0.0.1:3005
-npm run dev:dormidos   # http://127.0.0.1:3006
-npm run dev:doctrinas  # http://127.0.0.1:3007
+pnpm run dev:todo       # http://127.0.0.1:3002
+pnpm run dev:sanacion   # http://127.0.0.1:3004
+pnpm run dev:jesus      # http://127.0.0.1:3005
+pnpm run dev:dormidos   # http://127.0.0.1:3006
+pnpm run dev:doctrinas  # http://127.0.0.1:3007
+```
+
+For any single workspace directly:
+```bash
+pnpm --filter @eluno/<book> dev     # or build
 ```
 
 ### Build all books
 ```bash
-npm run build:all
+pnpm run build:all     # sequential build of the 5 published books
+```
+`build:all` covers todo, jesus, sanacion, doctrinas and dormidos. The `raw` and `otramirada` workspaces are excluded.
+
+### Audiobooks
+Each book exposes TTS scripts (Edge TTS via `node-edge-tts`, free, no API key) run from its workspace:
+```bash
+pnpm run audio:extract    # extract chapter text for TTS
+pnpm run audio:generate   # generate MP3s
+pnpm run audio:assemble   # sync audio with text
+pnpm run audio:concat     # concatenate chapters into the full book
+pnpm run audio:tag        # write ID3 metadata
 ```
 
 ## Repository Structure
@@ -101,7 +120,8 @@ eluno-books/
 │   ├── sanacion/          # 021 - Sanación
 │   ├── doctrinas/         # 100 - Doctrinas
 │   ├── dormidos/          # 110 - Dormidos
-│   └── otramirada/        # Future book (placeholder)
+│   ├── raw/               # Raw - distilled knowledge (raw.eluno.org, no root dev alias)
+│   └── otramirada/        # Future book (placeholder, no package.json yet)
 ├── libros/                # Landing page for all books
 ├── ai/                    # AI writing methodology docs
 ├── docs/                  # Project documentation
@@ -110,20 +130,28 @@ eluno-books/
 
 ## Related repositories
 
-- **[eluno](https://github.com/chuchurex/eluno)** — The core philosophical book (000 - El Uno / The One)
-- **[eluno-core](https://github.com/chuchurex/eluno-core)** — Shared build tools, styles, and fonts
+- **[eluno](https://github.com/chuchurex/eluno)** - The core philosophical book (000 - El Uno / The One)
+- **[eluno-core](https://github.com/chuchurex/eluno-core)** - Shared build tools, styles, and fonts
 
 ## Technical
 
 - **Source**: [L/L Research - The Ra Contact](https://www.llresearch.org/library/the-ra-contact-teaching-the-law-of-one)
-- **Generated with**: Claude (Anthropic) for text, Fish Audio for TTS audiobooks
+- **Generated with**: Claude (Anthropic) for text, Edge TTS (`node-edge-tts`) for audiobooks
 - **Hosted at**: [eluno.org](https://eluno.org) subdomains
-- **Deployed via**: Cloudflare Pages (sites), Hostinger (static media)
+- **Deployed via**: Cloudflare Pages (one project per book), Hostinger (static media)
 - **License**: AGPL-3.0
+
+### Deployment and credentials
+
+Each book is a separate Cloudflare Pages project (`eluno-todo`, `eluno-jesus`, `eluno-sanacion`, `eluno-doctrinas`, `eluno-dormidos`, plus `eluno-libros` for the landing page). A push to `main` triggers all builds in parallel; each project builds its own package (`pnpm --filter @eluno/<book> build`, output in `packages/<book>/dist`). The real build config lives in the Cloudflare dashboard.
+
+Media (audio, PDF, video) lives at `static.eluno.org/<slug>/` on Hostinger, outside the repo. It is uploaded over SSH using a private key (`UPLOAD_KEY_PATH`, together with `UPLOAD_HOST` / `UPLOAD_PORT` / `UPLOAD_USER` / `UPLOAD_DIR`), not a password. After uploading, purge the Cloudflare cache so new media is served.
+
+Cloudflare env vars can be managed through the API using a scoped **API Token** (Bearer auth, scope `Pages:Edit`) - never the account Global API Key. Credentials and upload variables live in a gitignored `.env`; see `.env.example` for the full list of placeholders. Real secret values never get committed or deployed. Operational details for automation live in `AGENTS.md`.
 
 ## References
 
 - Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
 - Brehm, J. W. (1966). *A Theory of Psychological Reactance*. Academic Press.
-- Gurdjieff, G.I. — Fourth Way teachings on conscious shocks.
+- Gurdjieff, G.I. - Fourth Way teachings on conscious shocks.
 - L/L Research (1981-1984). *The Ra Contact: Teaching the Law of One*.
