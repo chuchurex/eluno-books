@@ -3,11 +3,10 @@
   "version": "0.1.0",
   "description": "Nuestras Doctrinas - Libro digital con audiolibro",
   "scripts": {
-    "sass:watch": "sass --watch ../../node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
-    "sass:build": "sass ../../node_modules/@eluno/core/scss/main.scss:dist/css/main.css --style=compressed",
+    "sass:watch": "sass --watch node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
     "serve": "live-server dist --port=3007",
     "dev": "concurrently \"pnpm run sass:watch\" \"pnpm run serve\"",
-    "build": "pnpm run sass:build && node scripts/build.js && pnpm run build:revision",
+    "build": "eluno-build && pnpm run build:revision",
     "build:preview": "node scripts/build-preview.js",
     "audio": "eluno-audio",
     "audio:extract": "eluno-audio extract",

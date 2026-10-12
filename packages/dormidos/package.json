@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Dormidos - eluno.org",
   "scripts": {
-    "sass:watch": "sass --watch ../../node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
+    "sass:watch": "sass --watch node_modules/@eluno/core/scss/main.scss:dist/css/main.css",
     "serve": "live-server dist --port=3006",
     "dev": "concurrently \"pnpm run sass:watch\" \"pnpm run serve\"",
     "build": "eluno-build",
